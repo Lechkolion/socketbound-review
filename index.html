@@ -36,9 +36,10 @@
   figure video, figure img { width: 100%; max-width: 100%; border-radius: 4px; background: #000; display: block; }
   figcaption { font-size: .85rem; color: var(--muted); }
   .opts { display: flex; flex-wrap: wrap; gap: 8px; }
-  .opts a { color: var(--bg); background: var(--ember); text-decoration: none; font-weight: 600; padding: 10px 16px; border-radius: 4px; min-height: 44px; display: inline-flex; align-items: center; }
-  .opts a.alt { background: transparent; color: var(--fg); border: 1px solid var(--line); }
-  .opts a:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+  .opts button { color: var(--bg); background: var(--ember); border: 0; font: 600 1rem var(--body); padding: 10px 16px; border-radius: 4px; min-height: 44px; cursor: pointer; }
+  .opts button:active { transform: translateY(1px); }
+  .opts button:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+  .note { width: 100%; background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 4px; padding: 8px; font: 1rem var(--body); resize: vertical; }
   .hint { font-size: .8rem; color: var(--muted); margin: 0; }
   .picked { margin: 0; color: var(--ok); font-weight: 600; }
   details { border-top: 1px solid var(--line); padding-top: 12px; }
@@ -51,7 +52,7 @@
 <main>
   <header>
     <h1>Socketbound Review</h1>
-    <p class="lede"><span class="count" id="n">0</span> to look at. Tap a choice: it opens a short GitHub note, press Submit and the team picks it up.</p>
+    <p class="lede"><span class="count" id="n">0</span> to look at. Tap a choice and it is sent. Add a note first if you want.</p>
   </header>
   <section id="open"><p class="empty">Loading…</p></section>
   <details id="closedwrap" hidden>
@@ -61,7 +62,9 @@
   <p class="stamp" id="stamp"></p>
 </main>
 <script>
-const REPO = "Lechkolion/socketbound-review";
+const TOPIC = "https://ntfy.sh/sbrev-e0513456bae5a9b15e20";   // answers reach the coordinator inbox (tools/review_site/listen.py)
+const sent = (() => { try { return JSON.parse(localStorage.getItem("sbrev-sent") || "{}"); } catch (e) { return {}; } })();
+const remember = () => { try { localStorage.setItem("sbrev-sent", JSON.stringify(sent)); } catch (e) {} };
 const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
 function card(it) {
   const c = el("article", "card"); c.id = it.id;
@@ -84,14 +87,22 @@ function card(it) {
   c.append(md);
   if (it.picked) c.append(el("p", "picked", "Your pick: " + it.picked));
   else if (it.options && it.options.length) {
+    const status = el("p", "picked", sent[it.id] ? "Sent: " + sent[it.id] : "");
+    const note = el("textarea", "note"); note.id = "note-" + it.id; note.rows = 2; note.placeholder = "Note (optional)";
     const o = el("div", "opts");
-    it.options.forEach((opt, i) => {
-      const a = el("a", i === it.options.length - 1 && /wrong|neither|no/i.test(opt) ? "alt" : null, opt);
-      a.href = "https://github.com/" + REPO + "/issues/new?title=" + encodeURIComponent(it.id + ": " + opt) + "&body=" + encodeURIComponent("Pick: " + opt + "\n\nNotes (optional):\n");
-      a.target = "_blank"; a.rel = "noopener";
-      o.append(a);
+    it.options.forEach((opt) => {
+      const b = el("button", null, opt); b.type = "button";
+      b.addEventListener("click", () => {
+        const msg = it.id + " | " + opt + (note.value.trim() ? " | " + note.value.trim() : "");
+        status.textContent = "Sending…";
+        fetch(TOPIC, { method: "POST", body: msg }).then(r => {
+          if (!r.ok) throw new Error(r.status);
+          sent[it.id] = opt; remember(); status.textContent = "Sent: " + opt;
+        }).catch(() => { status.textContent = "Not sent. Check the connection and tap again."; });
+      });
+      o.append(b);
     });
-    c.append(o, el("p", "hint", "Add a note on the GitHub page if you want, then Submit."));
+    c.append(note, o, status);
   }
   return c;
 }
