@@ -355,7 +355,30 @@
    ],
    "created": "2026-10-30T23:02+09:00",
    "picked": "B (looks the coolest)"
+  },
+  {
+   "id": "hero-v5-concept",
+   "title": "New hero: pick a Sorceress look",
+   "ask": "Which one should we build into 3D?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "All 3 read as a woman at game size. C stands out most from the ground; A and B are darker and blend more."
+   ],
+   "media": [
+    {
+     "src": "media/hero-v5-concept_0.jpg",
+     "caption": "In game, zoomed 2x (current hero left, new one right)"
+    }
+   ],
+   "options": [
+    "A",
+    "B",
+    "C",
+    "None, try again"
+   ],
+   "created": "2026-10-31T00:28+09:00"
   }
  ],
- "updated": "2026-10-30T23:27+09:00"
+ "updated": "2026-10-31T00:28+09:00"
 }
