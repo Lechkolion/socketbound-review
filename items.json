@@ -91,7 +91,40 @@
    ],
    "created": "2026-10-30T18:17+09:00",
    "picked": "Closer in style, quality not there (owner, terminal)"
+  },
+  {
+   "id": "hero-run-abc",
+   "title": "Hero run: pick A, B or C (plus new hair)",
+   "ask": "Which run is closest to what you want?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Top row: D2R sorceress running (study only). Below: three real recorded runs on our hero, untouched.",
+    "A: current Mixamo run (the one you called bad). B: woman mocap run, athletic, big strides. C: calm upright jog, small arms, closest to D2R; head looks a bit down in the source, and the hero would move slower (about 2 m/s vs 3).",
+    "New body fem9: long tapered hair with face locks, temple tufts gone. Hair sways later (after your pick)."
+   ],
+   "media": [
+    {
+     "src": "media/hero-run-abc_0.mp4",
+     "caption": "Runs A, B, C under D2R"
+    },
+    {
+     "src": "media/hero-run-abc_1.png",
+     "caption": "fem9 running, game camera, 1x full frame"
+    },
+    {
+     "src": "media/hero-run-abc_2.jpg",
+     "caption": "16 headings, old hair (top) vs new (bottom)"
+    }
+   ],
+   "options": [
+    "A",
+    "B",
+    "C",
+    "None of these"
+   ],
+   "created": "2026-10-30T18:32+09:00"
   }
  ],
- "updated": "2026-10-30T18:28+09:00"
+ "updated": "2026-10-30T18:32+09:00"
 }
