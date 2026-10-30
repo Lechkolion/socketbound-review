@@ -316,7 +316,45 @@
    ],
    "created": "2026-10-30T21:53+09:00",
    "picked": "Still off: does not match our graphics; make a GPT concept from our screenshots first"
+  },
+  {
+   "id": "fireball-v7-concepts",
+   "title": "Fireball: 3 painted targets in our look",
+   "ask": "Which fireball should we build?",
+   "area": "Skills VFX",
+   "kind": "approve",
+   "body": [
+    "GPT painted these from our own game screenshots. Nothing is built in 3D yet; the one you pick becomes the target.",
+    "Each sheet: top = flight (6 frames), middle = hit (8 frames to gone), bottom = each layer on its own row (core, body, tail, embers, flash, hit flames, ground mark).",
+    "A: compact ember, best fire (GPT changed our hero and floor; ignore those). B: sits in our scene best, but gold threads, a star-shaped flash and tall flames on the monster. C: darkest, hollow head, best scorch mark.",
+    "You can also pick a mix, e.g. A's fire with C's scorch: write it in the note."
+   ],
+   "media": [
+    {
+     "src": "media/fireball-v7-concepts_0.jpg",
+     "caption": "A | B | C side by side"
+    },
+    {
+     "src": "media/fireball-v7-concepts_1.jpg",
+     "caption": "A, full sheet"
+    },
+    {
+     "src": "media/fireball-v7-concepts_2.jpg",
+     "caption": "B, full sheet"
+    },
+    {
+     "src": "media/fireball-v7-concepts_3.jpg",
+     "caption": "C, full sheet"
+    }
+   ],
+   "options": [
+    "A",
+    "B",
+    "C",
+    "None, try again"
+   ],
+   "created": "2026-10-30T23:02+09:00"
   }
  ],
- "updated": "2026-10-30T22:41+09:00"
+ "updated": "2026-10-30T23:02+09:00"
 }
