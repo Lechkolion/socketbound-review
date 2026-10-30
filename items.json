@@ -57,7 +57,40 @@
     "Even closer"
    ],
    "created": "2026-10-30T17:03+09:00"
+  },
+  {
+   "id": "fireball-v6-r3",
+   "title": "Fireball v6: new impact",
+   "ask": "Make this the live fireball?",
+   "area": "Skills VFX",
+   "kind": "approve",
+   "body": [
+    "Game camera, full frame, 1x, real time. Flight same as before.",
+    "Impact is now one fire mass that blooms and breaks up (was a white star and popcorn puffs).",
+    "Leaves a flat glowing ember patch on the ground, like D2R.",
+    "Fire kills no longer spray blood and bone: a few embers and a short scorch on the body."
+   ],
+   "media": [
+    {
+     "src": "media/fireball-v6-r3_0.mp4",
+     "caption": "Ours, 1x, two hits"
+    },
+    {
+     "src": "media/fireball-v6-r3_1.jpg",
+     "caption": "Impact frame by frame, D2R on the right"
+    },
+    {
+     "src": "media/fireball-v6-r3_2.jpg",
+     "caption": "Ground ember patch, D2R on the right"
+    }
+   ],
+   "options": [
+    "Good, make it live",
+    "Impact still off",
+    "Ground patch off"
+   ],
+   "created": "2026-10-30T18:17+09:00"
   }
  ],
- "updated": "2026-10-30T17:08+09:00"
+ "updated": "2026-10-30T18:17+09:00"
 }
