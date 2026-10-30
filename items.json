@@ -126,7 +126,74 @@
    ],
    "created": "2026-10-30T18:32+09:00",
    "picked": "A only decent; chest-up weird, arms broken (owner via Characters)"
+  },
+  {
+   "id": "hero-run-dab",
+   "title": "Hero run: A, D or B",
+   "ask": "Which run?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "All untouched Mixamo runs, staff grip as in the game, arms checked joint by joint, no hand edits.",
+    "D: most upright, calmest arms, least lean (reviewer pick). B: most neutral chest, bigger arm swing. A: current.",
+    "First video: zoomed beside D2R (study). Then each at game camera 1x full frame."
+   ],
+   "media": [
+    {
+     "src": "media/hero-run-dab_0.mp4",
+     "caption": "A, D, B under D2R (zoomed)"
+    },
+    {
+     "src": "media/hero-run-dab_1.mp4",
+     "caption": "D at 1x"
+    },
+    {
+     "src": "media/hero-run-dab_2.mp4",
+     "caption": "B at 1x"
+    },
+    {
+     "src": "media/hero-run-dab_3.mp4",
+     "caption": "A (current) at 1x"
+    }
+   ],
+   "options": [
+    "D",
+    "B",
+    "A",
+    "None"
+   ],
+   "created": "2026-10-30T19:04+09:00"
+  },
+  {
+   "id": "hero-chest-interim",
+   "title": "Hero chest fix (until your new model)",
+   "ask": "Put this chest fix in the game for now?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Installed model, only the chest changed; arms, hair and skeleton untouched.",
+    "Reads female from the side and 3/4 at 1x; from the front it is faint under the busy robe."
+   ],
+   "media": [
+    {
+     "src": "media/hero-chest-interim_0.mp4",
+     "caption": "Before, 1x"
+    },
+    {
+     "src": "media/hero-chest-interim_1.mp4",
+     "caption": "After, 1x"
+    },
+    {
+     "src": "media/hero-chest-interim_2.png",
+     "caption": "16 headings before (top) and after"
+    }
+   ],
+   "options": [
+    "Yes, put it in",
+    "No"
+   ],
+   "created": "2026-10-30T19:04+09:00"
   }
  ],
- "updated": "2026-10-30T18:38+09:00"
+ "updated": "2026-10-30T19:04+09:00"
 }
