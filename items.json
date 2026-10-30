@@ -401,7 +401,28 @@
    ],
    "created": "2026-10-31T00:53+09:00",
    "picked": "Good, build it"
+  },
+  {
+   "id": "fireball-v7-b3",
+   "title": "Fireball: built from your pick B",
+   "ask": "Swap the current fireball for this one?",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "Hit: flame tongues burst out, break apart, rise and fade in about a fifth of a second."
+   ],
+   "media": [
+    {
+     "src": "media/fireball-v7-b3_0.mp4",
+     "caption": "In game, normal size"
+    }
+   ],
+   "options": [
+    "Install it",
+    "Not yet"
+   ],
+   "created": "2026-10-31T01:25+09:00"
   }
  ],
- "updated": "2026-10-31T01:04+09:00"
+ "updated": "2026-10-31T01:25+09:00"
 }
