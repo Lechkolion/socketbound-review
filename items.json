@@ -379,7 +379,28 @@
    ],
    "created": "2026-10-31T00:28+09:00",
    "picked": "C"
+  },
+  {
+   "id": "hero-v5-canon",
+   "title": "New hero: final look before 3D",
+   "ask": "OK to build this into 3D?",
+   "area": "Characters",
+   "kind": "final",
+   "body": [
+    "Wear, soot and darker sleeves get added on the texture step."
+   ],
+   "media": [
+    {
+     "src": "media/hero-v5-canon_0.png",
+     "caption": "Front, side, back, staff"
+    }
+   ],
+   "options": [
+    "Good, build it",
+    "Change something"
+   ],
+   "created": "2026-10-31T00:53+09:00"
   }
  ],
- "updated": "2026-10-31T00:40+09:00"
+ "updated": "2026-10-31T00:53+09:00"
 }
