@@ -283,7 +283,39 @@
    ],
    "created": "2026-10-30T20:09+09:00",
    "picked": "Still off: fireball static/too perfect, cast leans back, too much hand movement"
+  },
+  {
+   "id": "fireball-v6-r6",
+   "title": "Fireball, rebuilt from the reference study",
+   "ask": "Make this the live fireball?",
+   "area": "Skills VFX",
+   "kind": "approve",
+   "body": [
+    "Game camera, full frame, 1x, real time.",
+    "Flight: one flame shape, gold streaks with dark red between, small white core, changes every frame.",
+    "Hit: short bright flash, then uneven flame licks that fade out in about a third of a second.",
+    "Second picture: every frame of one hit at 1x, so you can see it frame by frame."
+   ],
+   "media": [
+    {
+     "src": "media/fireball-v6-r6_0.mp4",
+     "caption": "Ours, 1x, real time"
+    },
+    {
+     "src": "media/fireball-v6-r6_1.jpg",
+     "caption": "One hit, every frame, 1x"
+    },
+    {
+     "src": "media/fireball-v6-r6_2.jpg",
+     "caption": "Flight frame by frame beside D2R (1x and 4x)"
+    }
+   ],
+   "options": [
+    "Good, make it live",
+    "Still off"
+   ],
+   "created": "2026-10-30T21:53+09:00"
   }
  ],
- "updated": "2026-10-30T20:14+09:00"
+ "updated": "2026-10-30T21:53+09:00"
 }
