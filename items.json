@@ -30,7 +30,34 @@
     "Smaller"
    ],
    "created": "2026-10-30T16:58+09:00"
+  },
+  {
+   "id": "camera-zoom-149",
+   "title": "Camera closer: average of D2R, D4 and PoE2",
+   "ask": "Is this zoom right?",
+   "area": "Gameplay",
+   "kind": "final",
+   "body": [
+    "The hero is now 11.6% of the screen height, the average of D2R, Diablo IV and PoE2 (was 7.8%).",
+    "Known: the ground texture looks soft this close and she looks pale (lantern too strong). World fixes both in the light pass."
+   ],
+   "media": [
+    {
+     "src": "media/camera-zoom-149_0.png",
+     "caption": "Before"
+    },
+    {
+     "src": "media/camera-zoom-149_1.png",
+     "caption": "After (1.49x closer)"
+    }
+   ],
+   "options": [
+    "Good",
+    "A bit further",
+    "Even closer"
+   ],
+   "created": "2026-10-30T17:03+09:00"
   }
  ],
- "updated": "2026-10-30T16:59+09:00"
+ "updated": "2026-10-30T17:03+09:00"
 }
