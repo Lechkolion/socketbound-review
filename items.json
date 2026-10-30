@@ -193,7 +193,39 @@
     "No"
    ],
    "created": "2026-10-30T19:04+09:00"
+  },
+  {
+   "id": "light-pass-r9a",
+   "title": "New lighting (in the game now)",
+   "ask": "Does the new light look right?",
+   "area": "World",
+   "kind": "final",
+   "body": [
+    "Left: before. Right: now. Game camera, full frame, 1x, three different rooms.",
+    "Fixed: the hero is no longer blown pale-yellow; she has her own soft light now.",
+    "The lantern pool is softer and the whole frame got darker. You said not overly dark: tell me if it went too far."
+   ],
+   "media": [
+    {
+     "src": "media/light-pass-r9a_0.jpg",
+     "caption": "Room 1: before | after"
+    },
+    {
+     "src": "media/light-pass-r9a_1.jpg",
+     "caption": "Room 2: before | after"
+    },
+    {
+     "src": "media/light-pass-r9a_2.jpg",
+     "caption": "Room 3: before | after"
+    }
+   ],
+   "options": [
+    "Good",
+    "Hero good, scene too dark",
+    "Worse than before"
+   ],
+   "created": "2026-10-30T19:16+09:00"
   }
  ],
- "updated": "2026-10-30T19:04+09:00"
+ "updated": "2026-10-30T19:16+09:00"
 }
