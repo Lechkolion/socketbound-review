@@ -227,7 +227,35 @@
    ],
    "created": "2026-10-30T19:16+09:00",
    "picked": "Good"
+  },
+  {
+   "id": "stablegen-abc",
+   "title": "Prop test: A vs StableGen (B) vs paint-over (C)",
+   "ask": "OK with the route: C shapes + A surfaces, StableGen dropped?",
+   "area": "World",
+   "kind": "final",
+   "body": [
+    "Same 3 props (boulder, barrel, skull pole) in room 1, game camera 1x; second picture zoomed 2x.",
+    "A (our way): best surfaces. B (StableGen): rejected: faceted origami boulder with black holes, toy-orange barrel.",
+    "C (cut from a painted room shot, then 3D): most natural boulder shape, but blotchy camo patches and a bright red rag.",
+    "Route: C for shapes, A for surfaces. All props still read too grey; World fixes materials per prop type next."
+   ],
+   "media": [
+    {
+     "src": "media/stablegen-abc_0.jpg",
+     "caption": "Each prop, A / B / C rows, 2x zoom"
+    },
+    {
+     "src": "media/stablegen-abc_1.jpg",
+     "caption": "Whole frame, 1x: A | B | C"
+    }
+   ],
+   "options": [
+    "OK, go that route",
+    "Show me more first"
+   ],
+   "created": "2026-10-30T20:05+09:00"
   }
  ],
- "updated": "2026-10-30T19:51+09:00"
+ "updated": "2026-10-30T20:05+09:00"
 }
