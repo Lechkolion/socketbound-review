@@ -1,0 +1,36 @@
+{
+ "items": [
+  {
+   "id": "mage-hit-70",
+   "title": "Mage hit reaction at 70%",
+   "ask": "Is this hit size right?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Her flinch when a monster hits her, at 70% strength: between the half you called too small and the full clip.",
+    "Videos 2 and 3 are the half and the full clip, for comparison. Game camera, 16 directions, real speed."
+   ],
+   "media": [
+    {
+     "src": "media/mage-hit-70_0.mp4",
+     "caption": "Hit at 70%"
+    },
+    {
+     "src": "media/mage-hit-70_1.mp4",
+     "caption": "Hit at half (you said too small)"
+    },
+    {
+     "src": "media/mage-hit-70_2.mp4",
+     "caption": "Full hit (too big)"
+    }
+   ],
+   "options": [
+    "Good, keep 70%",
+    "Bigger",
+    "Smaller"
+   ],
+   "created": "2026-10-30T16:58+09:00"
+  }
+ ],
+ "updated": "2026-10-30T16:59+09:00"
+}
