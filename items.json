@@ -551,7 +551,30 @@
    ],
    "created": "2026-10-31T14:06+09:00",
    "picked": "C"
+  },
+  {
+   "id": "hero-v5-run-c3",
+   "title": "New hero: run C with your notes fixed",
+   "ask": "OK to use this run?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Left: current D. Right: C with your notes: leans forward like D (13.8 vs 13.4 degrees), head up, no tipping back.",
+    "Hands now low by the hips, elbows close, small swing. Speed matched to the game.",
+    "My check, frame by frame: lean and hands fixed on all sides; still a little stiff: the arms keep one bent shape and the body sways a bit more than D."
+   ],
+   "media": [
+    {
+     "src": "media/hero-v5-run-c3_0.mp4",
+     "caption": "Left current D, right new C, game size, 16 directions"
+    }
+   ],
+   "options": [
+    "Use it",
+    "Not yet"
+   ],
+   "created": "2026-10-31T16:43+09:00"
   }
  ],
- "updated": "2026-10-31T14:37+09:00"
+ "updated": "2026-10-31T16:43+09:00"
 }
