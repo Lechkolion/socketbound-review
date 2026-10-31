@@ -721,7 +721,39 @@
     "Keep Now"
    ],
    "created": "2026-10-31T22:32+09:00"
+  },
+  {
+   "id": "rooms-brightness",
+   "title": "Rooms: brighter or darker?",
+   "ask": "Which brightness should the rooms use?",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "Bottom left: same room, brighter (limit 45). Top right: current limit 36. Bottom right: the target picture.",
+    "Brighter lands on the target's light level; the layout, paths and walls are still being worked on separately.",
+    "Grass still looks like an even carpet; that is next."
+   ],
+   "media": [
+    {
+     "src": "media/rooms-brightness_0.jpg",
+     "caption": "Room A: before / now / brighter / target"
+    },
+    {
+     "src": "media/rooms-brightness_1.jpg",
+     "caption": "Room B"
+    },
+    {
+     "src": "media/rooms-brightness_2.jpg",
+     "caption": "Room C"
+    }
+   ],
+   "options": [
+    "Brighter (45)",
+    "Keep darker (36)",
+    "In between"
+   ],
+   "created": "2026-10-31T23:17+09:00"
   }
  ],
- "updated": "2026-10-31T22:32+09:00"
+ "updated": "2026-10-31T23:17+09:00"
 }
