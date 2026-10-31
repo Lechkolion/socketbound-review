@@ -445,7 +445,28 @@
    ],
    "created": "2026-10-31T11:35+09:00",
    "picked": "On track"
+  },
+  {
+   "id": "hero-v5-move-check",
+   "title": "New hero: movement check, all 16 directions",
+   "ask": "Body and movement OK to go on to the run test?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Not in yet: staff, real level floor, art polish."
+   ],
+   "media": [
+    {
+     "src": "media/hero-v5-move-check_0.png",
+     "caption": "One frame, game size"
+    }
+   ],
+   "options": [
+    "OK, go run test",
+    "Not good"
+   ],
+   "created": "2026-10-31T12:19+09:00"
   }
  ],
- "updated": "2026-10-31T11:55+09:00"
+ "updated": "2026-10-31T12:19+09:00"
 }
