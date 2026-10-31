@@ -637,7 +637,8 @@
     "Right direction",
     "Not right"
    ],
-   "created": "2026-10-31T19:18+09:00"
+   "created": "2026-10-31T19:18+09:00",
+   "picked": "Not right | still very far from the reference"
   },
   {
    "id": "fireball-v7-b7",
@@ -693,8 +694,34 @@
     "Hands still weird",
     "Keep Now"
    ],
-   "created": "2026-10-31T20:49+09:00"
+   "created": "2026-10-31T20:49+09:00",
+   "picked": "Hands still weird | rabbit arms"
+  },
+  {
+   "id": "hero-v5-run-c6",
+   "title": "Run: rabbit arms fixed, next to Now",
+   "ask": "Do the arms and hands look right now?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Left: the run in the game now. Right: the new run.",
+    "Arms swing from the shoulder like Now; hands hang at hip height, wrists straight.",
+    "Hand no longer bends down at the wrist (a setup bug, also in Now; fixed).",
+    "Fingers stay open: no finger bones yet (later)."
+   ],
+   "media": [
+    {
+     "src": "media/hero-v5-run-c6_0.mp4",
+     "caption": "Now (left) vs new run (right), 16 directions, 1x"
+    }
+   ],
+   "options": [
+    "Good, use it",
+    "Still weird",
+    "Keep Now"
+   ],
+   "created": "2026-10-31T22:32+09:00"
   }
  ],
- "updated": "2026-10-31T20:49+09:00"
+ "updated": "2026-10-31T22:32+09:00"
 }
