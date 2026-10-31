@@ -669,7 +669,32 @@
     "Still janky"
    ],
    "created": "2026-10-31T20:34+09:00"
+  },
+  {
+   "id": "hero-v5-run-c4",
+   "title": "Run: the fix for stiff arms, next to Now",
+   "ask": "Do the hands and lean look right now?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Left: the run in the game now. Right: C4, the fix for C3 being stiff.",
+    "Upper body is upright like Now, and the arms swing.",
+    "Front view: for about 10 frames the front hand passes over the belly. Now does this too, more briefly.",
+    "Hands stay open: this rig has no finger bones, so a fist is not possible yet."
+   ],
+   "media": [
+    {
+     "src": "media/hero-v5-run-c4_0.mp4",
+     "caption": "Now (left) vs C4 (right), 16 directions, 1x"
+    }
+   ],
+   "options": [
+    "C4 good",
+    "Hands still weird",
+    "Keep Now"
+   ],
+   "created": "2026-10-31T20:49+09:00"
   }
  ],
- "updated": "2026-10-31T20:34+09:00"
+ "updated": "2026-10-31T20:49+09:00"
 }
