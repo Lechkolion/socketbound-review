@@ -421,7 +421,8 @@
     "Install it",
     "Not yet"
    ],
-   "created": "2026-10-31T01:25+09:00"
+   "created": "2026-10-31T01:25+09:00",
+   "picked": "Not yet"
   },
   {
    "id": "hero-v5-model-wip",
@@ -446,5 +447,5 @@
    "picked": "On track"
   }
  ],
- "updated": "2026-10-31T11:52+09:00"
+ "updated": "2026-10-31T11:55+09:00"
 }
