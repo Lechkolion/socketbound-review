@@ -575,7 +575,38 @@
    ],
    "created": "2026-10-31T16:43+09:00",
    "picked": "Not yet (fix stiffness)"
+  },
+  {
+   "id": "fireball-v7-b6",
+   "title": "Fireball: rebuilt flight, real animated fire",
+   "ask": "Does the flying fireball look right now?",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "No strands, no flying picture: a bright hot ball at the front with a flame body behind it, built from many small animated flames that flicker, shrink and cool from yellow to red.",
+    "My check: one solid fireball in every frame, the shape changes every frame (measured), reads as a fireball at game size.",
+    "Clips: flying sideways, away from the camera, toward the camera. The hit is still your pick on the other card (A, B or C)."
+   ],
+   "media": [
+    {
+     "src": "media/fireball-v7-b6_0.mp4",
+     "caption": "Sideways, game size"
+    },
+    {
+     "src": "media/fireball-v7-b6_1.mp4",
+     "caption": "Away from camera"
+    },
+    {
+     "src": "media/fireball-v7-b6_2.mp4",
+     "caption": "Toward camera"
+    }
+   ],
+   "options": [
+    "Good",
+    "Not yet"
+   ],
+   "created": "2026-10-31T18:34+09:00"
   }
  ],
- "updated": "2026-10-31T17:38+09:00"
+ "updated": "2026-10-31T18:34+09:00"
 }
