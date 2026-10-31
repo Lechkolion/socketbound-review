@@ -606,7 +606,39 @@
     "Not yet"
    ],
    "created": "2026-10-31T18:34+09:00"
+  },
+  {
+   "id": "rooms-before-now",
+   "title": "Rooms: before vs now (real game)",
+   "ask": "Is this the right direction for rooms 2, 3 and on?",
+   "area": "World",
+   "kind": "final",
+   "body": [
+    "Left: rooms yesterday. Middle: rooms now, live game. Right: room 1 for reference.",
+    "Clear changes: grey laid floor stones instead of mud cracks, walls show single stones instead of a black smear, lighter stone props.",
+    "Still weaker than room 1: grass (room 1 has lit grass tips and earth paths along the stones). That is next.",
+    "Your fireball clips showed an old copy of the game, which is why you didn't see this. Fixed."
+   ],
+   "media": [
+    {
+     "src": "media/rooms-before-now_0.jpg",
+     "caption": "Layout 1: before | now | room 1"
+    },
+    {
+     "src": "media/rooms-before-now_1.jpg",
+     "caption": "Layout 2: before | now | room 1"
+    },
+    {
+     "src": "media/rooms-before-now_2.jpg",
+     "caption": "Layout 3: before | now | room 1"
+    }
+   ],
+   "options": [
+    "Right direction",
+    "Not right"
+   ],
+   "created": "2026-10-31T19:18+09:00"
   }
  ],
- "updated": "2026-10-31T18:34+09:00"
+ "updated": "2026-10-31T19:18+09:00"
 }
