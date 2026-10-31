@@ -466,7 +466,30 @@
     "Not good"
    ],
    "created": "2026-10-31T12:19+09:00"
+  },
+  {
+   "id": "fireball-v7-hits",
+   "title": "Fireball: 3 hit versions, calmer tail",
+   "ask": "Which hit direction do you like? (detail gets polished after your pick)",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "My note: the puff in A reads a bit flat at game size; that gets inner detail in polish."
+   ],
+   "media": [
+    {
+     "src": "media/fireball-v7-hits_0.mp4",
+     "caption": "C, PoE2 style"
+    }
+   ],
+   "options": [
+    "A",
+    "B",
+    "C",
+    "None"
+   ],
+   "created": "2026-10-31T12:57+09:00"
   }
  ],
- "updated": "2026-10-31T12:19+09:00"
+ "updated": "2026-10-31T12:57+09:00"
 }
