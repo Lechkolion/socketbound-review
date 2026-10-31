@@ -502,6 +502,29 @@
     "None"
    ],
    "created": "2026-10-31T13:52+09:00"
+  },
+  {
+   "id": "hero-v5-move-video",
+   "title": "New hero: the running video you missed",
+   "ask": "Your earlier OK was on a still frame only (site bug). Still OK after watching her run?",
+   "area": "Characters",
+   "kind": "final",
+   "body": [
+    "Your new hero, textured, running run D at game size in all 16 directions; skirt and hair move on their own.",
+    "This checks body and rig. Run D is still the sporty sprint; the run test (already started) tries calmer runs.",
+    "Not in yet: staff, real level floor, art polish."
+   ],
+   "media": [
+    {
+     "src": "media/hero-v5-move-video_0.mp4",
+     "caption": "16 directions, game size"
+    }
+   ],
+   "options": [
+    "Still OK",
+    "Not good"
+   ],
+   "created": "2026-10-31T13:52+09:00"
   }
  ],
  "updated": "2026-10-31T13:52+09:00"
