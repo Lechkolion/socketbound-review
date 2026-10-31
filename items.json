@@ -422,7 +422,28 @@
     "Not yet"
    ],
    "created": "2026-10-31T01:25+09:00"
+  },
+  {
+   "id": "hero-v5-model-wip",
+   "title": "New hero 3D model: work in progress",
+   "ask": "On track? (not final: skirt texture not painted yet)",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "After the texture: in-game run check at all 16 directions, then you see it moving."
+   ],
+   "media": [
+    {
+     "src": "media/hero-v5-model-wip_0.png",
+     "caption": "Current build: front, side, back, 3/4 (skirt not textured yet)"
+    }
+   ],
+   "options": [
+    "On track",
+    "Not good"
+   ],
+   "created": "2026-10-31T11:35+09:00"
   }
  ],
- "updated": "2026-10-31T01:25+09:00"
+ "updated": "2026-10-31T11:35+09:00"
 }
