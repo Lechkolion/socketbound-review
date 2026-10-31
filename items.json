@@ -465,7 +465,8 @@
     "OK, go run test",
     "Not good"
    ],
-   "created": "2026-10-31T12:19+09:00"
+   "created": "2026-10-31T12:19+09:00",
+   "picked": "OK, go run test"
   },
   {
    "id": "fireball-v7-hits",
@@ -491,5 +492,5 @@
    "created": "2026-10-31T12:57+09:00"
   }
  ],
- "updated": "2026-10-31T12:57+09:00"
+ "updated": "2026-10-31T13:26+09:00"
 }
