@@ -525,7 +525,32 @@
     "Not good"
    ],
    "created": "2026-10-31T13:52+09:00"
+  },
+  {
+   "id": "hero-v5-run-c2",
+   "title": "New hero: calmer run vs current",
+   "ask": "Which run should the new hero use?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Left: current run D (sporty sprint). Right: new run C, made with a text-to-motion tool from a GPT-written prompt.",
+    "C: upright, head level, smaller arm swing, calmer.",
+    "My check, frame by frame: C's back and side views look natural; from the front her hands gather at the belly with elbows out (a bit hands-on-hips). That gets fixed after your pick.",
+    "Speed gets matched to the game after the pick. The library runs and the video route failed, so only C made it."
+   ],
+   "media": [
+    {
+     "src": "media/hero-v5-run-c2_0.mp4",
+     "caption": "Left current D, right new C, game size, 16 directions"
+    }
+   ],
+   "options": [
+    "C",
+    "Keep D",
+    "Neither"
+   ],
+   "created": "2026-10-31T14:06+09:00"
   }
  ],
- "updated": "2026-10-31T13:52+09:00"
+ "updated": "2026-10-31T14:06+09:00"
 }
