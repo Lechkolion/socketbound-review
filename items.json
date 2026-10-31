@@ -475,11 +475,23 @@
    "area": "VFX",
    "kind": "approve",
    "body": [
-    "My note: the puff in A reads a bit flat at game size; that gets inner detail in polish."
+    "Tail on all 3: one flame body that splits into a few thin threads only at the end, moves half as much. No more Medusa.",
+    "A, D2R style: big white-hot puff that turns orange and tears upward.",
+    "B, D4 style: flash, then a sheet of fire thrown forward on the floor that breaks into burning patches.",
+    "C, PoE2 style: small sharp pop, then glowing embers left on the floor for about a second.",
+    "The puff still reads a bit flat at game size; it gets inner detail in polish."
    ],
    "media": [
     {
      "src": "media/fireball-v7-hits_0.mp4",
+     "caption": "A, D2R style"
+    },
+    {
+     "src": "media/fireball-v7-hits_1.mp4",
+     "caption": "B, D4 style"
+    },
+    {
+     "src": "media/fireball-v7-hits_2.mp4",
      "caption": "C, PoE2 style"
     }
    ],
@@ -489,8 +501,8 @@
     "C",
     "None"
    ],
-   "created": "2026-10-31T12:57+09:00"
+   "created": "2026-10-31T13:52+09:00"
   }
  ],
- "updated": "2026-10-31T13:26+09:00"
+ "updated": "2026-10-31T13:52+09:00"
 }
