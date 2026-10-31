@@ -638,7 +638,38 @@
     "Not right"
    ],
    "created": "2026-10-31T19:18+09:00"
+  },
+  {
+   "id": "fireball-v7-b7",
+   "title": "Fireball: same look, jank smoothed out",
+   "ask": "Smoother now? OK to use this flight?",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "Same look you liked. Fixed: the head no longer jumps in brightness every frame (smooth flicker), flames fade in and out instead of popping, the ball grows smoothly out of the staff.",
+    "Measured: brightness changes about 6% frame to frame (was 10-20%), head moves evenly (3% wobble).",
+    "Filmed in the current game, so the new room floor shows too."
+   ],
+   "media": [
+    {
+     "src": "media/fireball-v7-b7_0.mp4",
+     "caption": "Sideways, game size"
+    },
+    {
+     "src": "media/fireball-v7-b7_1.mp4",
+     "caption": "Away from camera"
+    },
+    {
+     "src": "media/fireball-v7-b7_2.mp4",
+     "caption": "Toward camera"
+    }
+   ],
+   "options": [
+    "Good",
+    "Still janky"
+   ],
+   "created": "2026-10-31T20:34+09:00"
   }
  ],
- "updated": "2026-10-31T19:18+09:00"
+ "updated": "2026-10-31T20:34+09:00"
 }
