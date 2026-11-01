@@ -753,7 +753,35 @@
     "In between"
    ],
    "created": "2026-10-31T23:17+09:00"
+  },
+  {
+   "id": "rooms-abc",
+   "title": "Rooms: 3 ways to reach the GPT picture",
+   "ask": "Which way should we push? None is close yet.",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "A: real scanned materials with proper lighting.",
+    "B: thousands of small grass tufts, pebbles and rubble.",
+    "C: painted tiles, the Diablo 2 way (tile repeat still shows as white dots).",
+    "D: A and B together.",
+    "All four still have green carpet grass; the GPT picture has dry grey-straw grass over soil. That is the next fix whichever you pick."
+   ],
+   "media": [
+    {
+     "src": "media/rooms-abc_0.jpg",
+     "caption": "A, B, C, D and the GPT picture (bottom left)"
+    }
+   ],
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D (A+B)",
+    "None"
+   ],
+   "created": "2026-11-01T12:45+09:00"
   }
  ],
- "updated": "2026-10-31T23:17+09:00"
+ "updated": "2026-11-01T12:45+09:00"
 }
