@@ -780,8 +780,33 @@
     "D (A+B)",
     "None"
    ],
-   "created": "2026-11-01T12:45+09:00"
+   "created": "2026-11-01T12:45+09:00",
+   "picked": "B | looks the best, still needs work"
+  },
+  {
+   "id": "rooms-b2",
+   "title": "Rooms: B, second pass",
+   "ask": "Closer? Keep going this way?",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "Bottom left is the new pass (B2), bottom right your GPT picture.",
+    "Grass now dry straw and olive in patches over soil; green carpet gone.",
+    "Shadows lifted; paving is flat, smaller square stones.",
+    "Still off (my read): paving away from the lantern too dark and cold; wall tops read as loose cubes, like toy blocks; grass could be finer."
+   ],
+   "media": [
+    {
+     "src": "media/rooms-b2_0.jpg",
+     "caption": "Start, B, B2 (new) and the GPT picture"
+    }
+   ],
+   "options": [
+    "Closer, keep going",
+    "Not closer"
+   ],
+   "created": "2026-11-01T14:55+09:00"
   }
  ],
- "updated": "2026-11-01T12:45+09:00"
+ "updated": "2026-11-01T14:55+09:00"
 }
