@@ -805,8 +805,32 @@
     "Closer, keep going",
     "Not closer"
    ],
-   "created": "2026-11-01T14:55+09:00"
+   "created": "2026-11-01T14:55+09:00",
+   "picked": "Closer, keep going | ground still far from target"
+  },
+  {
+   "id": "rooms-b4",
+   "title": "Rooms: ground taken from your GPT picture",
+   "ask": "Ground closer now?",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "Middle is new (B4), left the last pass, right your GPT picture. Bottom row is a close crop at game size.",
+    "Paving and earth are lifted from your GPT picture itself: irregular chipped stones, dirt joints, red mud, no checker.",
+    "Still off (my read): grass away from the path is spiky green fuzz, not dry straw mats; walls are lower than in the picture and have no moss on the faces."
+   ],
+   "media": [
+    {
+     "src": "media/rooms-b4_0.jpg",
+     "caption": "Last pass, new pass, GPT picture"
+    }
+   ],
+   "options": [
+    "Closer, keep going",
+    "Not closer"
+   ],
+   "created": "2026-11-01T16:42+09:00"
   }
  ],
- "updated": "2026-11-01T14:55+09:00"
+ "updated": "2026-11-01T16:42+09:00"
 }
