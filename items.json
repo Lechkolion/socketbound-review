@@ -854,7 +854,32 @@
     "Not closer"
    ],
    "created": "2026-11-01T17:11+09:00"
+  },
+  {
+   "id": "rooms-b7",
+   "title": "Rooms: wall tops and pillars fixed",
+   "ask": "Good enough to start putting this into the real game rooms?",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "Middle is new (B7), left B6, right your GPT picture.",
+    "Wall top is now one worn continuous slab row, no boxes; two tall pillars.",
+    "Still a bit cleaner and more regular than the picture.",
+    "So far this is one test room; next step is making every generated room use it."
+   ],
+   "media": [
+    {
+     "src": "media/rooms-b7_0.jpg",
+     "caption": "B6, B7, GPT picture"
+    }
+   ],
+   "options": [
+    "Yes, put it in the game",
+    "Keep polishing first",
+    "Not closer"
+   ],
+   "created": "2026-11-01T17:18+09:00"
   }
  ],
- "updated": "2026-11-01T17:11+09:00"
+ "updated": "2026-11-01T17:18+09:00"
 }
