@@ -830,7 +830,31 @@
     "Not closer"
    ],
    "created": "2026-11-01T16:42+09:00"
+  },
+  {
+   "id": "rooms-b6",
+   "title": "Rooms: dry grass and new walls",
+   "ask": "Closer to your GPT picture?",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "Middle is new (B6), left the pass before, right your GPT picture. Rows: whole room, close at the hero, close at the wall.",
+    "Grass now dry brown straw over soil; ground carries on outside the walls.",
+    "Walls rebuilt: big dark blocks, one lit top row, fallen blocks at breaks.",
+    "Still off (my read): the wall top row looks like separate boxes, like battlements; the target's is worn continuous slabs. Pillars are short stubs, not tall columns. Being fixed now."
+   ],
+   "media": [
+    {
+     "src": "media/rooms-b6_0.jpg",
+     "caption": "Before, new, GPT picture"
+    }
+   ],
+   "options": [
+    "Closer, keep going",
+    "Not closer"
+   ],
+   "created": "2026-11-01T17:11+09:00"
   }
  ],
- "updated": "2026-11-01T16:42+09:00"
+ "updated": "2026-11-01T17:11+09:00"
 }
