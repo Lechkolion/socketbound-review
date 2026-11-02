@@ -1070,7 +1070,32 @@
    ],
    "created": "2026-11-02T15:42+09:00",
    "picked": "Good direction, keep going"
+  },
+  {
+   "id": "mobs-medieval",
+   "title": "Monsters: medieval clothes",
+   "ask": "Medieval enough now?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Ghoul: laced tunic with no collar, rope belt, ragged hose, soft shoes. Archer: buttoned seam and buckle gone (laced jerkin, rawhide tie). Brute had no modern bits. Top = before, bottom = after."
+   ],
+   "media": [
+    {
+     "src": "media/mobs-medieval_0.jpg",
+     "caption": "Ghoul before / after"
+    },
+    {
+     "src": "media/mobs-medieval_1.jpg",
+     "caption": "Archer before / after"
+    }
+   ],
+   "options": [
+    "Yes, medieval now",
+    "Still modern"
+   ],
+   "created": "2026-11-02T16:00+09:00"
   }
  ],
- "updated": "2026-11-02T15:49+09:00"
+ "updated": "2026-11-02T16:00+09:00"
 }
