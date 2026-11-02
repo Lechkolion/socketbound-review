@@ -1141,7 +1141,28 @@
     "6 D4 Frozen Orb"
    ],
    "created": "2026-11-02T16:34+09:00"
+  },
+  {
+   "id": "rooms-ingame-r6",
+   "title": "Rooms in the real game, final",
+   "ask": "Good for now?",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "Left: 3 real game levels. Middle: B7. Right: target. Path clearest, hero light strongest, walled rooms. Grey pillars are monster stand-ins. Leftovers on the polish list: landmark path, broken wall ends, grass."
+   ],
+   "media": [
+    {
+     "src": "media/rooms-ingame-r6_0.jpg",
+     "caption": "game | B7 | target"
+    }
+   ],
+   "options": [
+    "Good for now",
+    "Keep polishing"
+   ],
+   "created": "2026-11-02T16:54+09:00"
   }
  ],
- "updated": "2026-11-02T16:34+09:00"
+ "updated": "2026-11-02T16:54+09:00"
 }
