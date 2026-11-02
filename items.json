@@ -1043,7 +1043,33 @@
     "3 Zombie walk"
    ],
    "created": "2026-11-02T15:23+09:00"
+  },
+  {
+   "id": "chain-lightning-b2",
+   "title": "Chain Lightning try 2",
+   "ask": "Better than try 1?",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "Left ours, right Diablo IV, same size and speed. Fixed: thicker varied core with side strands, flash and blue light at each hit, stays on the staff, runs at chest height."
+   ],
+   "media": [
+    {
+     "src": "media/chain-lightning-b2_0.mp4",
+     "caption": "Ours left, D4 right, 1x"
+    },
+    {
+     "src": "media/chain-lightning-b2_1.jpg",
+     "caption": "Close-up"
+    }
+   ],
+   "options": [
+    "Good direction, keep going",
+    "Still low quality",
+    "Not like the reference"
+   ],
+   "created": "2026-11-02T15:42+09:00"
   }
  ],
- "updated": "2026-11-02T15:23+09:00"
+ "updated": "2026-11-02T15:42+09:00"
 }
