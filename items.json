@@ -1162,7 +1162,32 @@
     "Keep polishing"
    ],
    "created": "2026-11-02T16:54+09:00"
+  },
+  {
+   "id": "mobs-ingame",
+   "title": "Monsters in the real game",
+   "ask": "How do they look in play?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Ghoul, archer (with bow) and brute replace the grey stand-ins. Real game, 1x, the bot plays. Attacks timed to the real hit."
+   ],
+   "media": [
+    {
+     "src": "media/mobs-ingame_0.mp4",
+     "caption": "In game, 1x"
+    },
+    {
+     "src": "media/mobs-ingame_1.mp4",
+     "caption": "Archer shot, 16 directions"
+    }
+   ],
+   "options": [
+    "Good, keep going",
+    "Something looks off"
+   ],
+   "created": "2026-11-02T21:52+09:00"
   }
  ],
- "updated": "2026-11-02T16:54+09:00"
+ "updated": "2026-11-02T21:52+09:00"
 }
