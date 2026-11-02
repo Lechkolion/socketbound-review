@@ -955,7 +955,32 @@
    ],
    "created": "2026-11-01T22:34+09:00",
    "picked": "B"
+  },
+  {
+   "id": "chain-lightning-refs",
+   "title": "Chain Lightning: which game's look?",
+   "ask": "Pick the lightning look to copy",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "6 real game references. VFX already built a first try in the D4 single-bolt style; your pick sets the target."
+   ],
+   "media": [
+    {
+     "src": "media/chain-lightning-refs_0.jpg",
+     "caption": "1 D4 pack, 2 D4 single bolt, 3 PoE2 Arc, 4 D2R, 5 D3, 6 Last Epoch"
+    }
+   ],
+   "options": [
+    "1 D4 pack",
+    "2 D4 single bolt",
+    "3 PoE2 Arc",
+    "4 D2R",
+    "5 D3",
+    "6 Last Epoch"
+   ],
+   "created": "2026-11-02T15:21+09:00"
   }
  ],
- "updated": "2026-11-02T12:19+09:00"
+ "updated": "2026-11-02T15:21+09:00"
 }
