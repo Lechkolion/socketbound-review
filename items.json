@@ -980,7 +980,70 @@
     "6 Last Epoch"
    ],
    "created": "2026-11-02T15:21+09:00"
+  },
+  {
+   "id": "mobs-movement-check",
+   "title": "Monsters: do they move right?",
+   "ask": "Untouched library walks, 16 directions, game camera. Colours and bow come later.",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Ghoul A, archer C, brute B as 3D models with plain library clips. This checks skeleton and movement only."
+   ],
+   "media": [
+    {
+     "src": "media/mobs-movement-check_0.mp4",
+     "caption": "Brute walk"
+    },
+    {
+     "src": "media/mobs-movement-check_1.mp4",
+     "caption": "Archer walk"
+    },
+    {
+     "src": "media/mobs-movement-check_2.mp4",
+     "caption": "Brute attack"
+    },
+    {
+     "src": "media/mobs-movement-check_3.mp4",
+     "caption": "Ghoul death"
+    }
+   ],
+   "options": [
+    "Moves right, go on",
+    "Something looks off"
+   ],
+   "created": "2026-11-02T15:23+09:00"
+  },
+  {
+   "id": "mobs-ghoul-walk",
+   "title": "Ghoul: which walk?",
+   "ask": "Pick the ghoul's walk",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Three library zombie walks, 16 directions."
+   ],
+   "media": [
+    {
+     "src": "media/mobs-ghoul-walk_0.mp4",
+     "caption": "1 Lurch (lead)"
+    },
+    {
+     "src": "media/mobs-ghoul-walk_1.mp4",
+     "caption": "2 Injured shamble"
+    },
+    {
+     "src": "media/mobs-ghoul-walk_2.mp4",
+     "caption": "3 Zombie walk"
+    }
+   ],
+   "options": [
+    "1 Lurch",
+    "2 Injured shamble",
+    "3 Zombie walk"
+   ],
+   "created": "2026-11-02T15:23+09:00"
   }
  ],
- "updated": "2026-11-02T15:21+09:00"
+ "updated": "2026-11-02T15:23+09:00"
 }
