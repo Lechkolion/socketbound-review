@@ -878,7 +878,8 @@
     "Keep polishing first",
     "Not closer"
    ],
-   "created": "2026-11-01T17:18+09:00"
+   "created": "2026-11-01T17:18+09:00",
+   "picked": "Yes, put it in the game"
   },
   {
    "id": "mob-ghoul-concept",
@@ -902,7 +903,8 @@
     "C",
     "None"
    ],
-   "created": "2026-11-01T22:34+09:00"
+   "created": "2026-11-01T22:34+09:00",
+   "picked": "A"
   },
   {
    "id": "mob-archer-concept",
@@ -926,7 +928,8 @@
     "C",
     "None"
    ],
-   "created": "2026-11-01T22:34+09:00"
+   "created": "2026-11-01T22:34+09:00",
+   "picked": "C"
   },
   {
    "id": "mob-brute-concept",
@@ -950,8 +953,9 @@
     "C",
     "None"
    ],
-   "created": "2026-11-01T22:34+09:00"
+   "created": "2026-11-01T22:34+09:00",
+   "picked": "B"
   }
  ],
- "updated": "2026-11-01T22:34+09:00"
+ "updated": "2026-11-02T12:19+09:00"
 }
