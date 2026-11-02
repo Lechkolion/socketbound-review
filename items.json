@@ -1095,7 +1095,28 @@
     "Still modern"
    ],
    "created": "2026-11-02T16:00+09:00"
+  },
+  {
+   "id": "rooms-ingame-r4",
+   "title": "Rooms in the real game",
+   "ask": "Closer to B7?",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "Left: 3 real game levels. Middle: B7 test shot. Right: target. Colours now match B7; still working on the path, hero light and broken walls (middle row)."
+   ],
+   "media": [
+    {
+     "src": "media/rooms-ingame-r4_0.jpg",
+     "caption": "game | B7 | target"
+    }
+   ],
+   "options": [
+    "Closer, keep going",
+    "Worse than before"
+   ],
+   "created": "2026-11-02T16:09+09:00"
   }
  ],
- "updated": "2026-11-02T16:00+09:00"
+ "updated": "2026-11-02T16:09+09:00"
 }
