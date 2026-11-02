@@ -1116,7 +1116,32 @@
     "Worse than before"
    ],
    "created": "2026-11-02T16:09+09:00"
+  },
+  {
+   "id": "ice-shards-refs",
+   "title": "Ice Shards: which game's look?",
+   "ask": "Pick the ice look to copy",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "6 real game references. VFX is starting a first try on 4 (Diablo IV ice lances) with a Last Epoch style hit; your pick sets the target."
+   ],
+   "media": [
+    {
+     "src": "media/ice-shards-refs_0.jpg",
+     "caption": "1 Last Epoch, 2 Torchlight, 3 D2R, 4 D4 Ice Shards, 5 D4 beta, 6 D4 Frozen Orb"
+    }
+   ],
+   "options": [
+    "1 Last Epoch",
+    "2 Torchlight",
+    "3 D2R",
+    "4 D4 Ice Shards",
+    "5 D4 beta",
+    "6 D4 Frozen Orb"
+   ],
+   "created": "2026-11-02T16:34+09:00"
   }
  ],
- "updated": "2026-11-02T16:09+09:00"
+ "updated": "2026-11-02T16:34+09:00"
 }
