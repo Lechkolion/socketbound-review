@@ -1359,7 +1359,33 @@
     "E breath burst"
    ],
    "created": "2026-11-04T01:48+09:00"
+  },
+  {
+   "id": "walls-rubble-r15w3",
+   "title": "Ruin walls, old hand-cut stone",
+   "ask": "Walls redone as old rubble masonry (3rd column) after your 'too modern' note. Left to right: current, last try, new, target. Go this way?",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "Irregular worn stones, wavy courses, dirty mortar, missing stones, ragged tops. Known fixes before install: dark slits at some joints (bottom row), still a bit grey vs the target's lit tops."
+   ],
+   "media": [
+    {
+     "src": "media/walls-rubble-r15w3_0.jpg",
+     "caption": "Current | last try | new rubble | target"
+    },
+    {
+     "src": "media/walls-rubble-r15w3_1.jpg",
+     "caption": "Whole rooms"
+    }
+   ],
+   "options": [
+    "Go this way",
+    "Keep old walls",
+    "More work first"
+   ],
+   "created": "2026-11-04T01:57+09:00"
   }
  ],
- "updated": "2026-11-04T01:48+09:00"
+ "updated": "2026-11-04T01:57+09:00"
 }
