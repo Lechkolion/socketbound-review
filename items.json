@@ -1235,7 +1235,32 @@
    ],
    "created": "2026-11-03T11:34+09:00",
    "picked": "Needs work"
+  },
+  {
+   "id": "ice-shards-b3",
+   "title": "Ice Shards build 3",
+   "ask": "Richer Ice Shards (your 'too simple' note): crystal heads, frost haze, ice chunks. Replace the installed one?",
+   "area": "Skills VFX",
+   "kind": "approve",
+   "body": [
+    "Ours left, Diablo IV right, 1x. The red dashed line is an old enemy aim marker, being removed separately."
+   ],
+   "media": [
+    {
+     "src": "media/ice-shards-b3_0.mp4",
+     "caption": "Ours left, D4 right, 1x"
+    },
+    {
+     "src": "media/ice-shards-b3_1.jpg",
+     "caption": "Frame steps"
+    }
+   ],
+   "options": [
+    "Install",
+    "Needs work"
+   ],
+   "created": "2026-11-03T17:03+09:00"
   }
  ],
- "updated": "2026-11-03T17:02+09:00"
+ "updated": "2026-11-03T17:03+09:00"
 }
