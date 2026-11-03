@@ -1335,7 +1335,31 @@
    ],
    "created": "2026-11-03T22:11+09:00",
    "picked": "More work first"
+  },
+  {
+   "id": "frost-nova-explore",
+   "title": "Frost Nova: extra elements",
+   "ask": "Crystals removed, ice kept. Which extra element(s) should Frost Nova get? Pick one; type a combo in the note if you want two (e.g. A + D).",
+   "area": "Skills VFX",
+   "kind": "approve",
+   "body": [
+    "GPT paintovers on our game frame. A frost mist ring, B snow swirl, C frost veins on the ground, D frost on the frozen monsters, E icy breath burst at the hero. My read: A + D reads clearest; C may look like lightning."
+   ],
+   "media": [
+    {
+     "src": "media/frost-nova-explore_0.jpg",
+     "caption": "b1.5 now + options A-E"
+    }
+   ],
+   "options": [
+    "A mist ring",
+    "B snow swirl",
+    "C frost veins",
+    "D rimed monsters",
+    "E breath burst"
+   ],
+   "created": "2026-11-04T01:48+09:00"
   }
  ],
- "updated": "2026-11-04T01:32+09:00"
+ "updated": "2026-11-04T01:48+09:00"
 }
