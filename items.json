@@ -1306,7 +1306,33 @@
     "Needs work"
    ],
    "created": "2026-11-03T22:07+09:00"
+  },
+  {
+   "id": "walls-blender-r15w2",
+   "title": "Ruin walls, Blender test",
+   "ask": "Walls made with the Blender part-by-part + bake method (middle) vs current walls (left) vs target (right). Which way?",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "New walls have the right chunky broken stone shape; still too flat and grey, the target's light-catching tops are muted by the brightness cap. Choosing the new walls means World keeps improving them in game."
+   ],
+   "media": [
+    {
+     "src": "media/walls-blender-r15w2_0.jpg",
+     "caption": "Left current, middle Blender, right target"
+    },
+    {
+     "src": "media/walls-blender-r15w2_1.jpg",
+     "caption": "Whole rooms"
+    }
+   ],
+   "options": [
+    "Use new walls",
+    "Keep old walls",
+    "More work first"
+   ],
+   "created": "2026-11-03T22:11+09:00"
   }
  ],
- "updated": "2026-11-03T22:07+09:00"
+ "updated": "2026-11-03T22:11+09:00"
 }
