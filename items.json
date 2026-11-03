@@ -1213,7 +1213,28 @@
    ],
    "created": "2026-11-03T10:52+09:00",
    "picked": "Install"
+  },
+  {
+   "id": "mobs-tex-r3",
+   "title": "Monster textures fixed",
+   "ask": "Monster texture fix: the blotchy 260p look is gone. Install now?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Top row: old vs new at game size. Middle: new up close, flat texture, approved concept. Still to polish after install: ghoul reads brown not grey-green, ribs soft, brute collar."
+   ],
+   "media": [
+    {
+     "src": "media/mobs-tex-r3_0.jpg",
+     "caption": "Old vs new, close-up, concept"
+    }
+   ],
+   "options": [
+    "Install",
+    "Needs work"
+   ],
+   "created": "2026-11-03T11:34+09:00"
   }
  ],
- "updated": "2026-11-03T11:10+09:00"
+ "updated": "2026-11-03T11:34+09:00"
 }
