@@ -1187,7 +1187,32 @@
     "Something looks off"
    ],
    "created": "2026-11-02T21:52+09:00"
+  },
+  {
+   "id": "ice-shards-b2",
+   "title": "Ice Shards build 2",
+   "ask": "Ice Shards in game (left) next to Diablo IV (right). Install it?",
+   "area": "Skills VFX",
+   "kind": "approve",
+   "body": [
+    "Bright ice heads, long wispy trail, cold light on the ground, white-blue shatter on hit, no red. Monsters still blotchy (texture fix coming); road brightness is World's, being fixed."
+   ],
+   "media": [
+    {
+     "src": "media/ice-shards-b2_0.mp4",
+     "caption": "Ours left, D4 right, 1x"
+    },
+    {
+     "src": "media/ice-shards-b2_1.jpg",
+     "caption": "Frame steps"
+    }
+   ],
+   "options": [
+    "Install",
+    "Needs work"
+   ],
+   "created": "2026-11-03T10:52+09:00"
   }
  ],
- "updated": "2026-11-02T21:52+09:00"
+ "updated": "2026-11-03T10:52+09:00"
 }
