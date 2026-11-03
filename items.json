@@ -1262,31 +1262,6 @@
    "created": "2026-11-03T17:03+09:00"
   },
   {
-   "id": "frost-nova-b1-3",
-   "title": "Frost Nova build 1.3",
-   "ask": "New skill Frost Nova (D4 style you picked), ours left, D4 right. Install, or more work?",
-   "area": "Skills VFX",
-   "kind": "approve",
-   "body": [
-    "Solid frosted ice sheet around the hero, holds about a second then thaws, lit ice spikes. Known gaps: tall grass pokes through the ice (being fixed), frozen monsters not blue-tinted yet."
-   ],
-   "media": [
-    {
-     "src": "media/frost-nova-b1-3_0.mp4",
-     "caption": "Ours left, D4 right, 1x"
-    },
-    {
-     "src": "media/frost-nova-b1-3_1.jpg",
-     "caption": "Frame steps"
-    }
-   ],
-   "options": [
-    "Install",
-    "Needs work"
-   ],
-   "created": "2026-11-03T18:06+09:00"
-  },
-  {
    "id": "mobs-canon-v3",
    "title": "Monsters vs concept, fixed",
    "ask": "Monsters now built to match the concept art. Install?",
@@ -1310,7 +1285,28 @@
     "Needs work"
    ],
    "created": "2026-11-03T18:10+09:00"
+  },
+  {
+   "id": "frost-nova-b1-4",
+   "title": "Frost Nova build 1.4",
+   "ask": "New skill Frost Nova (D4 style you picked), ours left, D4 right. Install, or more work?",
+   "area": "Skills VFX",
+   "kind": "approve",
+   "body": [
+    "Solid frosted ice sheet around the hero, grass now presses flat under the ice, holds about a second then thaws, lit ice spikes. Frozen monsters turn blue-white."
+   ],
+   "media": [
+    {
+     "src": "media/frost-nova-b1-4_0.mp4",
+     "caption": "Ours left, D4 right, 1x"
+    }
+   ],
+   "options": [
+    "Install",
+    "Needs work"
+   ],
+   "created": "2026-11-03T18:19+09:00"
   }
  ],
- "updated": "2026-11-03T18:10+09:00"
+ "updated": "2026-11-03T18:19+09:00"
 }
