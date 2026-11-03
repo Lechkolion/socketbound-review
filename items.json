@@ -1262,42 +1262,17 @@
    "created": "2026-11-03T17:03+09:00"
   },
   {
-   "id": "mobs-canon-v3",
-   "title": "Monsters vs concept, fixed",
-   "ask": "Monsters now built to match the concept art. Install?",
-   "area": "Characters",
-   "kind": "approve",
-   "body": [
-    "Sheet 1, left to right: concept, raw 3D, new shape, new texture, new lit. Cause was loose cloth flaps with holes under them plus a misaligned texture; both fixed. Sheet 2: in game camera. Still polishing after install: ghoul hands/wraps too brown, archer fingers, brute collar."
-   ],
-   "media": [
-    {
-     "src": "media/mobs-canon-v3_0.jpg",
-     "caption": "Concept vs new monster, same light"
-    },
-    {
-     "src": "media/mobs-canon-v3_1.jpg",
-     "caption": "Game camera"
-    }
-   ],
-   "options": [
-    "Install",
-    "Needs work"
-   ],
-   "created": "2026-11-03T18:10+09:00"
-  },
-  {
-   "id": "frost-nova-b1-4",
-   "title": "Frost Nova build 1.4",
-   "ask": "New skill Frost Nova (D4 style you picked), ours left, D4 right. Install, or more work?",
+   "id": "frost-nova-b1-5",
+   "title": "Frost Nova build 1.5",
+   "ask": "Frost Nova with your fixes: solid crystal spikes (no paper), ice under the hero, no squares in the floor. Install?",
    "area": "Skills VFX",
    "kind": "approve",
    "body": [
-    "Solid frosted ice sheet around the hero, grass now presses flat under the ice, holds about a second then thaws, lit ice spikes. Frozen monsters turn blue-white."
+    "Ours left, D4 right, 1x. Grass lies flat under the ice; frozen monsters turn blue-white."
    ],
    "media": [
     {
-     "src": "media/frost-nova-b1-4_0.mp4",
+     "src": "media/frost-nova-b1-5_0.mp4",
      "caption": "Ours left, D4 right, 1x"
     }
    ],
@@ -1305,8 +1280,8 @@
     "Install",
     "Needs work"
    ],
-   "created": "2026-11-03T18:19+09:00"
+   "created": "2026-11-03T21:03+09:00"
   }
  ],
- "updated": "2026-11-03T18:19+09:00"
+ "updated": "2026-11-03T21:03+09:00"
 }
