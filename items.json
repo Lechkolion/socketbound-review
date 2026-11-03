@@ -1260,7 +1260,32 @@
     "Needs work"
    ],
    "created": "2026-11-03T17:03+09:00"
+  },
+  {
+   "id": "frost-nova-b1",
+   "title": "Frost Nova build 1",
+   "ask": "New skill Frost Nova (D4 style you picked), ours left, D4 right. Install, or more work?",
+   "area": "Skills VFX",
+   "kind": "approve",
+   "body": [
+    "Frosted ice sheet bursts out around the hero and freezes the pack. Known gaps: burst flash weaker than D4, ice spikes small, frozen monsters don't stay blue-tinted yet."
+   ],
+   "media": [
+    {
+     "src": "media/frost-nova-b1_0.mp4",
+     "caption": "Ours left, D4 right, 1x"
+    },
+    {
+     "src": "media/frost-nova-b1_1.jpg",
+     "caption": "Frame steps"
+    }
+   ],
+   "options": [
+    "Install",
+    "Needs work"
+   ],
+   "created": "2026-11-03T17:48+09:00"
   }
  ],
- "updated": "2026-11-03T17:03+09:00"
+ "updated": "2026-11-03T17:48+09:00"
 }
