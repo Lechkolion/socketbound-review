@@ -1285,7 +1285,32 @@
     "Needs work"
    ],
    "created": "2026-11-03T18:06+09:00"
+  },
+  {
+   "id": "mobs-canon-v3",
+   "title": "Monsters vs concept, fixed",
+   "ask": "Monsters now built to match the concept art. Install?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Sheet 1, left to right: concept, raw 3D, new shape, new texture, new lit. Cause was loose cloth flaps with holes under them plus a misaligned texture; both fixed. Sheet 2: in game camera. Still polishing after install: ghoul hands/wraps too brown, archer fingers, brute collar."
+   ],
+   "media": [
+    {
+     "src": "media/mobs-canon-v3_0.jpg",
+     "caption": "Concept vs new monster, same light"
+    },
+    {
+     "src": "media/mobs-canon-v3_1.jpg",
+     "caption": "Game camera"
+    }
+   ],
+   "options": [
+    "Install",
+    "Needs work"
+   ],
+   "created": "2026-11-03T18:10+09:00"
   }
  ],
- "updated": "2026-11-03T18:06+09:00"
+ "updated": "2026-11-03T18:10+09:00"
 }
