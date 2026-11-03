@@ -1281,7 +1281,32 @@
     "Needs work"
    ],
    "created": "2026-11-03T21:03+09:00"
+  },
+  {
+   "id": "mobs-v4g3",
+   "title": "Monsters: concept shape, toned for rooms",
+   "ask": "Monsters rebuilt to match the concept, and toned down so they sit in the room light instead of glowing. Left = before, right = new. Install this step?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Still coming after: ghoul greener so it reads apart from the archer, and a soft cool rim light so monster backs aren't black in the lantern pool."
+   ],
+   "media": [
+    {
+     "src": "media/mobs-v4g3_0.jpg",
+     "caption": "Left before, middle too dark, right new (1x game camera)"
+    },
+    {
+     "src": "media/mobs-v4g3_1.jpg",
+     "caption": "Concept vs new monster, same light"
+    }
+   ],
+   "options": [
+    "Install",
+    "Needs work"
+   ],
+   "created": "2026-11-03T22:07+09:00"
   }
  ],
- "updated": "2026-11-03T21:03+09:00"
+ "updated": "2026-11-03T22:07+09:00"
 }
