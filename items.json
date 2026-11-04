@@ -1569,7 +1569,32 @@
     "Too much"
    ],
    "created": "2026-11-04T14:52+09:00"
+  },
+  {
+   "id": "hi3d-hero",
+   "title": "Hi3D hero: close up vs in game",
+   "ask": "Up close Hi3D is much better; in the game at normal size the gain is small and it adds faults (older face, a pale blotch on the skirt, ragged hem). Keep the current hero, or keep working on the Hi3D one?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Picture 1: grey models, left current, right Hi3D. Picture 2: in game, columns live / Hi3D at 1x, then 3x zoom on head and legs. Hi3D is still being used on the monsters (bulky shapes show more)."
+   ],
+   "media": [
+    {
+     "src": "media/hi3d-hero_0.jpg",
+     "caption": "Grey models: current (left) vs Hi3D (right)"
+    },
+    {
+     "src": "media/hi3d-hero_1.jpg",
+     "caption": "In game: live vs Hi3D, 1x then 3x crops"
+    }
+   ],
+   "options": [
+    "Keep current hero",
+    "Fix Hi3D hero (face, hem, blotch)"
+   ],
+   "created": "2026-11-04T17:03+09:00"
   }
  ],
- "updated": "2026-11-04T14:52+09:00"
+ "updated": "2026-11-04T17:03+09:00"
 }
