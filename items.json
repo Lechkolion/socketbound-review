@@ -1711,7 +1711,70 @@
     "Different refs"
    ],
    "created": "2026-11-04T21:54+09:00"
+  },
+  {
+   "id": "cultist-h9",
+   "title": "Blood Cultist 3D (Hi3D, in game)",
+   "ask": "Cultist look OK? First monster built with Hi3D from the start; replaces the grey capsule.",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "1x in game, then 2.4x. Columns: earlier H3, H8, installed H9 (white hip patch fixed)."
+   ],
+   "media": [
+    {
+     "src": "media/cultist-h9_0.jpg",
+     "caption": "Cultist H3 / H8 / H9, 1x and 2.4x"
+    }
+   ],
+   "options": [
+    "OK",
+    "Needs work"
+   ],
+   "created": "2026-11-05T01:25+09:00"
+  },
+  {
+   "id": "abbot-a7",
+   "title": "Bone Abbot boss 3D (Hi3D)",
+   "ask": "Abbot boss look OK? (staged, goes live once the boss is hooked to it)",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "1x in game and 2.4x, A6 vs A7. Boss scale 1.9 in game."
+   ],
+   "media": [
+    {
+     "src": "media/abbot-a7_0.jpg",
+     "caption": "Abbot A6 vs A7"
+    }
+   ],
+   "options": [
+    "OK",
+    "Needs work"
+   ],
+   "created": "2026-11-05T01:25+09:00"
+  },
+  {
+   "id": "brute-b10",
+   "title": "Brute update (in game)",
+   "ask": "Brute look OK? (dark iron shoulder plate with lit rim, chest strap with brass buckle, spikes break the outline)",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "B9 vs installed B10, 1x and 2.4x."
+   ],
+   "media": [
+    {
+     "src": "media/brute-b10_0.jpg",
+     "caption": "Brute B9 vs B10"
+    }
+   ],
+   "options": [
+    "OK",
+    "Needs work"
+   ],
+   "created": "2026-11-05T01:25+09:00"
   }
  ],
- "updated": "2026-11-04T21:54+09:00"
+ "updated": "2026-11-05T01:25+09:00"
 }
