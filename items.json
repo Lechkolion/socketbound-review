@@ -1595,7 +1595,28 @@
    ],
    "created": "2026-11-04T17:03+09:00",
    "picked": "Fix Hi3D hero (face, hem, blotch)"
+  },
+  {
+   "id": "refs-element-deaths",
+   "title": "Element deaths: reference set",
+   "ask": "Are these the right kind of deaths to aim for? (cold = freeze then shatter, fire = body burns and drops, lightning = jolt then drop)",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "7 rows, frame-stepped: D4 cold shatter x2, D4 fire burn, D2R fireball pack burn, D4 lightning x2, PoE2 fire knockback. No D2R/PoE2 lightning death found."
+   ],
+   "media": [
+    {
+     "src": "media/refs-element-deaths_0.jpg",
+     "caption": "Element death refs (source and time per row)"
+    }
+   ],
+   "options": [
+    "Good, go",
+    "Different refs"
+   ],
+   "created": "2026-11-04T17:23+09:00"
   }
  ],
- "updated": "2026-11-04T17:10+09:00"
+ "updated": "2026-11-04T17:23+09:00"
 }
