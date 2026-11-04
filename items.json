@@ -1690,7 +1690,28 @@
     "Not better"
    ],
    "created": "2026-11-04T19:32+09:00"
+  },
+  {
+   "id": "refs-props-hi3d",
+   "title": "New props: reference set",
+   "ask": "Right look for the new 3D props? (gallows, dead trees and bushes, candles, pillars, a fallen statue)",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "12 shots from D2R, PoE2 and others. World is already building dead bush and gallows from these; say if they're off."
+   ],
+   "media": [
+    {
+     "src": "media/refs-props-hi3d_0.jpg",
+     "caption": "Prop refs (12)"
+    }
+   ],
+   "options": [
+    "Good",
+    "Different refs"
+   ],
+   "created": "2026-11-04T21:54+09:00"
   }
  ],
- "updated": "2026-11-04T19:33+09:00"
+ "updated": "2026-11-04T21:54+09:00"
 }
