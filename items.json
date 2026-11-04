@@ -1641,7 +1641,56 @@
     "Needs work"
    ],
    "created": "2026-11-04T18:48+09:00"
+  },
+  {
+   "id": "terrain-depth-day1",
+   "title": "Terrain today: this morning vs now",
+   "ask": "Is the ground going the right way? (stones with real edges lit by the lantern, dirt with packed patches, clumps and edge stones)",
+   "area": "World",
+   "kind": "approve",
+   "body": [
+    "Same seed, 1080p, 1x. Before = this morning, after = live now (road r3 + earth r3b, both interim). Walk clips take different paths."
+   ],
+   "media": [
+    {
+     "src": "media/terrain-depth-day1_0.jpg",
+     "caption": "Road, morning"
+    },
+    {
+     "src": "media/terrain-depth-day1_1.jpg",
+     "caption": "Road, now"
+    },
+    {
+     "src": "media/terrain-depth-day1_2.jpg",
+     "caption": "Open ground, morning"
+    },
+    {
+     "src": "media/terrain-depth-day1_3.jpg",
+     "caption": "Open ground, now"
+    },
+    {
+     "src": "media/terrain-depth-day1_4.jpg",
+     "caption": "Lantern pool, morning"
+    },
+    {
+     "src": "media/terrain-depth-day1_5.jpg",
+     "caption": "Lantern pool, now"
+    },
+    {
+     "src": "media/terrain-depth-day1_6.mp4",
+     "caption": "Walk, morning"
+    },
+    {
+     "src": "media/terrain-depth-day1_7.mp4",
+     "caption": "Walk, now"
+    }
+   ],
+   "options": [
+    "Right way, keep going",
+    "Not better"
+   ],
+   "created": "2026-11-04T19:32+09:00"
   }
  ],
- "updated": "2026-11-04T18:48+09:00"
+ "updated": "2026-11-04T19:32+09:00"
 }
