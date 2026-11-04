@@ -1442,7 +1442,49 @@
     "Needs work"
    ],
    "created": "2026-11-04T11:26+09:00"
+  },
+  {
+   "id": "ani04-cultist",
+   "title": "Cultist: movement check",
+   "ask": "Does the movement look right? OK lets Characters start retiming, cloth and polish.",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Untouched library clips on the new cultist rig: idle, walk, spell push, hit, death, 16 directions. Judge movement only; look and texture come later."
+   ],
+   "media": [
+    {
+     "src": "media/ani04-cultist_0.mp4",
+     "caption": "16 directions, 1x"
+    }
+   ],
+   "options": [
+    "OK",
+    "Needs work"
+   ],
+   "created": "2026-11-04T12:25+09:00"
+  },
+  {
+   "id": "ani04-abbot",
+   "title": "Bone Abbot: movement check",
+   "ask": "Does the movement look right? OK lets Characters start retiming, cloth and polish.",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Untouched library clips on the Abbot rig: greatsword idle and walk, overhead bash, hit, death, 16 directions. Hands grip air until the hammer is added. Judge movement only."
+   ],
+   "media": [
+    {
+     "src": "media/ani04-abbot_0.mp4",
+     "caption": "16 directions, 1x"
+    }
+   ],
+   "options": [
+    "OK",
+    "Needs work"
+   ],
+   "created": "2026-11-04T12:25+09:00"
   }
  ],
- "updated": "2026-11-04T11:26+09:00"
+ "updated": "2026-11-04T12:25+09:00"
 }
