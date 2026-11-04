@@ -1616,7 +1616,32 @@
     "Different refs"
    ],
    "created": "2026-11-04T17:23+09:00"
+  },
+  {
+   "id": "cold-death-b5",
+   "title": "Cold death (freeze, then shatter)",
+   "ask": "Install this cold death? (monster freezes, breaks into ice slabs that rest and melt)",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "1x in game, brute killed by Ice Shards. AD 2.0. Known polish: crack lines on the slabs, frost joining the plates."
+   ],
+   "media": [
+    {
+     "src": "media/cold-death-b5_0.mp4",
+     "caption": "Cold death, 1x"
+    },
+    {
+     "src": "media/cold-death-b5_1.jpg",
+     "caption": "Frame steps"
+    }
+   ],
+   "options": [
+    "Install",
+    "Needs work"
+   ],
+   "created": "2026-11-04T18:48+09:00"
   }
  ],
- "updated": "2026-11-04T17:23+09:00"
+ "updated": "2026-11-04T18:48+09:00"
 }
