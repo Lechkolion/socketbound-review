@@ -1539,7 +1539,37 @@
     "Needs work"
    ],
    "created": "2026-11-04T14:32+09:00"
+  },
+  {
+   "id": "ice-shards-b-hit",
+   "title": "Ice Shards B, stronger hit (installed)",
+   "ask": "Is the hit pronounced enough now?",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "Your pick B is in the game with a stronger hit: bigger brighter impact, frost mist holds longer. Top = before, bottom = after, same frame. Clips: before, then after."
+   ],
+   "media": [
+    {
+     "src": "media/ice-shards-b-hit_0.jpg",
+     "caption": "Top before, bottom after (same frame)"
+    },
+    {
+     "src": "media/ice-shards-b-hit_1.mp4",
+     "caption": "Before, 1x"
+    },
+    {
+     "src": "media/ice-shards-b-hit_2.mp4",
+     "caption": "After, 1x"
+    }
+   ],
+   "options": [
+    "Good",
+    "Stronger still",
+    "Too much"
+   ],
+   "created": "2026-11-04T14:52+09:00"
   }
  ],
- "updated": "2026-11-04T14:32+09:00"
+ "updated": "2026-11-04T14:52+09:00"
 }
