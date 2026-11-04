@@ -1518,7 +1518,28 @@
     "1.3x"
    ],
    "created": "2026-11-04T12:38+09:00"
+  },
+  {
+   "id": "ani04-abbot-2",
+   "title": "Bone Abbot movement, fixed",
+   "ask": "Does the Abbot walk right now? (Last one was a backward walk played forward: reverse knees, sliding feet. Now an untouched forward sword-and-shield walk.)",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "16 headings, 1x, idle, walk, attack, death."
+   ],
+   "media": [
+    {
+     "src": "media/ani04-abbot-2_0.mp4",
+     "caption": "Abbot, 16 headings, 1x"
+    }
+   ],
+   "options": [
+    "OK",
+    "Needs work"
+   ],
+   "created": "2026-11-04T14:32+09:00"
   }
  ],
- "updated": "2026-11-04T12:38+09:00"
+ "updated": "2026-11-04T14:32+09:00"
 }
