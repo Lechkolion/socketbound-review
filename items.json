@@ -1484,7 +1484,41 @@
     "Needs work"
    ],
    "created": "2026-11-04T12:25+09:00"
+  },
+  {
+   "id": "zoom-ab",
+   "title": "Camera distance",
+   "ask": "Which camera distance? Closer = bigger, sharper characters, but you see less room.",
+   "area": "Gameplay",
+   "kind": "approve",
+   "body": [
+    "Same fight at 1080p. Hero is about 165 px tall now, 190 px at 1.15x, 215 px at 1.3x."
+   ],
+   "media": [
+    {
+     "src": "media/zoom-ab_0.mp4",
+     "caption": "Current"
+    },
+    {
+     "src": "media/zoom-ab_1.mp4",
+     "caption": "1.15x closer"
+    },
+    {
+     "src": "media/zoom-ab_2.mp4",
+     "caption": "1.3x closer"
+    },
+    {
+     "src": "media/zoom-ab_3.jpg",
+     "caption": "stills, rows top to bottom: current, 1.15x, 1.3x"
+    }
+   ],
+   "options": [
+    "Current",
+    "1.15x",
+    "1.3x"
+   ],
+   "created": "2026-11-04T12:38+09:00"
   }
  ],
- "updated": "2026-11-04T12:25+09:00"
+ "updated": "2026-11-04T12:38+09:00"
 }
