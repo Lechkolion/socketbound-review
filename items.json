@@ -1409,8 +1409,40 @@
     "Keep old walls",
     "More work first"
    ],
-   "created": "2026-11-04T06:09+09:00"
+   "created": "2026-11-04T06:09+09:00",
+   "picked": "Previous wall better"
+  },
+  {
+   "id": "ice-shards-depth-c",
+   "title": "Ice Shards: depth pass",
+   "ask": "Which Ice Shards? A live, B depth pass, C depth + frayed trails, steel-blue body, fewer chips (recommended)",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "Same fight, 1080p, game camera. C: haze melts into the floor, wavy frayed trails, white only at the tip."
+   ],
+   "media": [
+    {
+     "src": "media/ice-shards-depth-c_0.mp4",
+     "caption": "A / B / C, 1x"
+    },
+    {
+     "src": "media/ice-shards-depth-c_1.jpg",
+     "caption": "frame steps"
+    },
+    {
+     "src": "media/ice-shards-depth-c_2.jpg",
+     "caption": "C full frame"
+    }
+   ],
+   "options": [
+    "A",
+    "B",
+    "C",
+    "Needs work"
+   ],
+   "created": "2026-11-04T11:26+09:00"
   }
  ],
- "updated": "2026-11-04T06:09+09:00"
+ "updated": "2026-11-04T11:26+09:00"
 }
