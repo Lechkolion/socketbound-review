@@ -1899,7 +1899,32 @@
     "Needs work"
    ],
    "created": "2026-11-09T21:53+09:00"
+  },
+  {
+   "id": "ghoul-attack-retime",
+   "title": "Ghoul attack, faster wind-up",
+   "ask": "Left = old, right = new. The ghoul raises its claws faster (0.55 s) so it can land a hit before dying. Still natural?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Same poses, only the wind-up is faster; the claw swipes keep real speed."
+   ],
+   "media": [
+    {
+     "src": "media/ghoul-attack-retime_0.mp4",
+     "caption": "left old, right new, 1x"
+    },
+    {
+     "src": "media/ghoul-attack-retime_1.jpg",
+     "caption": "frame steps, top old, bottom new"
+    }
+   ],
+   "options": [
+    "Keep",
+    "Looks rushed"
+   ],
+   "created": "2026-11-09T23:12+09:00"
   }
  ],
- "updated": "2026-11-09T21:53+09:00"
+ "updated": "2026-11-09T23:12+09:00"
 }
