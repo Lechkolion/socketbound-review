@@ -1924,7 +1924,29 @@
     "Looks rushed"
    ],
    "created": "2026-11-09T23:12+09:00"
+  },
+  {
+   "id": "ani04-raider",
+   "title": "Dune Raider movement (16 directions)",
+   "ask": "First grey-placeholder monster getting a body. Untouched library clips: idle, crouched walk, overhead axe chop (axe not modelled yet), hit, death. Does the movement fit a desert raider?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Movement check only (rule ANI-04). Texture, Hi3D detail and the axe come after your OK."
+   ],
+   "media": [
+    {
+     "src": "media/ani04-raider_0.mp4",
+     "caption": "16 headings, 1x"
+    }
+   ],
+   "options": [
+    "OK movement",
+    "Swap walk",
+    "Swap attack"
+   ],
+   "created": "2026-11-09T23:14+09:00"
   }
  ],
- "updated": "2026-11-09T23:12+09:00"
+ "updated": "2026-11-09T23:14+09:00"
 }
