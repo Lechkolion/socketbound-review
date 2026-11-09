@@ -1774,7 +1774,29 @@
     "Needs work"
    ],
    "created": "2026-11-05T01:25+09:00"
+  },
+  {
+   "id": "antisync-ghoul6",
+   "title": "Monsters out of step",
+   "ask": "6 ghouls: first half OFF, second half ON. Do the monsters look more alive (breathing, head turns), without looking robotic?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Each monster now breathes a little and turns its head toward you or looks around, with its own timing. Walk and speed unchanged."
+   ],
+   "media": [
+    {
+     "src": "media/antisync-ghoul6_0.mp4",
+     "caption": "OFF then ON, 1x game camera"
+    }
+   ],
+   "options": [
+    "Keep ON",
+    "Too subtle, stronger",
+    "Robotic, turn off"
+   ],
+   "created": "2026-11-09T19:50+09:00"
   }
  ],
- "updated": "2026-11-05T01:25+09:00"
+ "updated": "2026-11-09T19:50+09:00"
 }
