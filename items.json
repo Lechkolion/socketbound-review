@@ -1822,7 +1822,33 @@
     "Drop"
    ],
    "created": "2026-11-09T20:02+09:00"
+  },
+  {
+   "id": "frost-nova-r4",
+   "title": "Frost Nova r4 (ice crystals)",
+   "ask": "Cast at about 0.3 s. Ice crystals grow out across the floor, hold, crack, snap and fall. Does it read as Frost Nova now (not lightning)?",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "Frost floor spreads from the caster, needle-ice clusters erupt behind the front (short near you, taller at the edge), then crack and shatter. No veins or branching lines."
+   ],
+   "media": [
+    {
+     "src": "media/frost-nova-r4_0.mp4",
+     "caption": "1x game camera"
+    },
+    {
+     "src": "media/frost-nova-r4_1.jpg",
+     "caption": "frame steps"
+    }
+   ],
+   "options": [
+    "Install",
+    "Needs work",
+    "Park"
+   ],
+   "created": "2026-11-09T20:39+09:00"
   }
  ],
- "updated": "2026-11-09T20:02+09:00"
+ "updated": "2026-11-09T20:39+09:00"
 }
