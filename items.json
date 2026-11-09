@@ -1796,7 +1796,33 @@
     "Robotic, turn off"
    ],
    "created": "2026-11-09T19:50+09:00"
+  },
+  {
+   "id": "fire-death-b2",
+   "title": "Fire death b2",
+   "ask": "Archer dies to fire (around 0.5 s in). Does it read as burned to death?",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "Burn front crawls over the body, ember cracks, small chest flames and smoke, then a charred corpse stays. No flash, no gibs. Same on/off switch as the cold death."
+   ],
+   "media": [
+    {
+     "src": "media/fire-death-b2_0.mp4",
+     "caption": "1x game camera"
+    },
+    {
+     "src": "media/fire-death-b2_1.jpg",
+     "caption": "frame steps"
+    }
+   ],
+   "options": [
+    "Install",
+    "Needs work",
+    "Drop"
+   ],
+   "created": "2026-11-09T20:02+09:00"
   }
  ],
- "updated": "2026-11-09T19:50+09:00"
+ "updated": "2026-11-09T20:02+09:00"
 }
