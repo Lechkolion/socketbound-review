@@ -1874,7 +1874,32 @@
     "Drop"
    ],
    "created": "2026-11-09T21:41+09:00"
+  },
+  {
+   "id": "death-start-ab",
+   "title": "Monsters fall on the kill",
+   "ask": "A = before (dead monster stands ~1-2 s), B = now (falls right on the killing hit). Keep B?",
+   "area": "Characters",
+   "kind": "approve",
+   "body": [
+    "Fix: the death animation now starts where the body actually drops. Archer, brute and ghoul shown."
+   ],
+   "media": [
+    {
+     "src": "media/death-start-ab_0.mp4",
+     "caption": "A then B, 1x"
+    },
+    {
+     "src": "media/death-start-ab_1.jpg",
+     "caption": "brute frame steps, top A, bottom B"
+    }
+   ],
+   "options": [
+    "Keep B",
+    "Needs work"
+   ],
+   "created": "2026-11-09T21:53+09:00"
   }
  ],
- "updated": "2026-11-09T21:41+09:00"
+ "updated": "2026-11-09T21:53+09:00"
 }
