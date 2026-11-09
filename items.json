@@ -1848,7 +1848,33 @@
     "Park"
    ],
    "created": "2026-11-09T20:39+09:00"
+  },
+  {
+   "id": "lightning-death-b2",
+   "title": "Lightning death b2",
+   "ask": "Archer dies near the start, brute at about 4.5 s. Does it read as killed by lightning? (The pause before the body falls is a separate bug, being fixed.)",
+   "area": "VFX",
+   "kind": "approve",
+   "body": [
+    "Chest flare, body goes dark with thin broken current and bone arcs, soot, arcs again when the corpse lands; corpse stays. Same on/off switch as cold and fire deaths."
+   ],
+   "media": [
+    {
+     "src": "media/lightning-death-b2_0.mp4",
+     "caption": "1x game camera"
+    },
+    {
+     "src": "media/lightning-death-b2_1.jpg",
+     "caption": "brute frame steps"
+    }
+   ],
+   "options": [
+    "Install",
+    "Needs work",
+    "Drop"
+   ],
+   "created": "2026-11-09T21:41+09:00"
   }
  ],
- "updated": "2026-11-09T20:39+09:00"
+ "updated": "2026-11-09T21:41+09:00"
 }
