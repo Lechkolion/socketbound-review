@@ -1987,7 +1987,33 @@
    ],
    "created": "2026-11-09T23:14+09:00",
    "picked": "Parked: raider paused by your 11-11 pick"
+  },
+  {
+   "id": "ani04-ghoul-rise",
+   "title": "Ghoul: getting up off the ground",
+   "ask": "Does the get-up look right in every direction?",
+   "area": "monsters",
+   "kind": "approve",
+   "body": [
+    "Untouched library clip on our ghoul, 16 directions, normal speed.",
+    "In the game, ghouls lie among the ruins and get up when you walk past (ambush)."
+   ],
+   "media": [
+    {
+     "src": "media/ani04-ghoul-rise_0.mp4",
+     "caption": "16 directions, normal speed"
+    },
+    {
+     "src": "media/ani04-ghoul-rise_1.jpg",
+     "caption": "frame by frame, 4 directions"
+    }
+   ],
+   "options": [
+    "OK movement",
+    "Swap clip"
+   ],
+   "created": "2026-11-11T18:24+09:00"
   }
  ],
- "updated": "2026-11-11T17:51+09:00"
+ "updated": "2026-11-11T18:24+09:00"
 }
