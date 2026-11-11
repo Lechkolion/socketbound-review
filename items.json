@@ -29,7 +29,8 @@
     "Bigger",
     "Smaller"
    ],
-   "created": "2026-10-30T16:58+09:00"
+   "created": "2026-10-30T16:58+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "camera-zoom-149",
@@ -193,7 +194,8 @@
     "Yes, put it in",
     "No"
    ],
-   "created": "2026-10-30T19:04+09:00"
+   "created": "2026-10-30T19:04+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "light-pass-r9a",
@@ -501,7 +503,8 @@
     "C",
     "None"
    ],
-   "created": "2026-10-31T13:52+09:00"
+   "created": "2026-10-31T13:52+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "hero-v5-move-video",
@@ -524,7 +527,8 @@
     "Still OK",
     "Not good"
    ],
-   "created": "2026-10-31T13:52+09:00"
+   "created": "2026-10-31T13:52+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "hero-v5-run-c2",
@@ -605,7 +609,8 @@
     "Good",
     "Not yet"
    ],
-   "created": "2026-10-31T18:34+09:00"
+   "created": "2026-10-31T18:34+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "rooms-before-now",
@@ -669,7 +674,8 @@
     "Good",
     "Still janky"
    ],
-   "created": "2026-10-31T20:34+09:00"
+   "created": "2026-10-31T20:34+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "hero-v5-run-c4",
@@ -720,7 +726,8 @@
     "Still weird",
     "Keep Now"
    ],
-   "created": "2026-10-31T22:32+09:00"
+   "created": "2026-10-31T22:32+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "rooms-brightness",
@@ -752,7 +759,8 @@
     "Keep darker (36)",
     "In between"
    ],
-   "created": "2026-10-31T23:17+09:00"
+   "created": "2026-10-31T23:17+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "rooms-abc",
@@ -829,7 +837,8 @@
     "Closer, keep going",
     "Not closer"
    ],
-   "created": "2026-11-01T16:42+09:00"
+   "created": "2026-11-01T16:42+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "rooms-b6",
@@ -853,7 +862,8 @@
     "Closer, keep going",
     "Not closer"
    ],
-   "created": "2026-11-01T17:11+09:00"
+   "created": "2026-11-01T17:11+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "rooms-b7",
@@ -979,7 +989,8 @@
     "5 D3",
     "6 Last Epoch"
    ],
-   "created": "2026-11-02T15:21+09:00"
+   "created": "2026-11-02T15:21+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "mobs-movement-check",
@@ -1012,7 +1023,8 @@
     "Moves right, go on",
     "Something looks off"
    ],
-   "created": "2026-11-02T15:23+09:00"
+   "created": "2026-11-02T15:23+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "mobs-ghoul-walk",
@@ -1042,7 +1054,8 @@
     "2 Injured shamble",
     "3 Zombie walk"
    ],
-   "created": "2026-11-02T15:23+09:00"
+   "created": "2026-11-02T15:23+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "chain-lightning-b2",
@@ -1094,7 +1107,8 @@
     "Yes, medieval now",
     "Still modern"
    ],
-   "created": "2026-11-02T16:00+09:00"
+   "created": "2026-11-02T16:00+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "rooms-ingame-r4",
@@ -1115,7 +1129,8 @@
     "Closer, keep going",
     "Worse than before"
    ],
-   "created": "2026-11-02T16:09+09:00"
+   "created": "2026-11-02T16:09+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "ice-shards-refs",
@@ -1140,7 +1155,8 @@
     "5 D4 beta",
     "6 D4 Frozen Orb"
    ],
-   "created": "2026-11-02T16:34+09:00"
+   "created": "2026-11-02T16:34+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "rooms-ingame-r6",
@@ -1161,7 +1177,8 @@
     "Good for now",
     "Keep polishing"
    ],
-   "created": "2026-11-02T16:54+09:00"
+   "created": "2026-11-02T16:54+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "mobs-ingame",
@@ -1186,7 +1203,8 @@
     "Good, keep going",
     "Something looks off"
    ],
-   "created": "2026-11-02T21:52+09:00"
+   "created": "2026-11-02T21:52+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "ice-shards-b2",
@@ -1259,7 +1277,8 @@
     "Install",
     "Needs work"
    ],
-   "created": "2026-11-03T17:03+09:00"
+   "created": "2026-11-03T17:03+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "frost-nova-b1-5",
@@ -1358,7 +1377,8 @@
     "D rimed monsters",
     "E breath burst"
    ],
-   "created": "2026-11-04T01:48+09:00"
+   "created": "2026-11-04T01:48+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "mobs-v4g9",
@@ -1383,7 +1403,8 @@
     "Install",
     "Needs work"
    ],
-   "created": "2026-11-04T04:03+09:00"
+   "created": "2026-11-04T04:03+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "walls-rubble-r15w6",
@@ -1441,7 +1462,8 @@
     "C",
     "Needs work"
    ],
-   "created": "2026-11-04T11:26+09:00"
+   "created": "2026-11-04T11:26+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "ani04-cultist",
@@ -1462,7 +1484,8 @@
     "OK",
     "Needs work"
    ],
-   "created": "2026-11-04T12:25+09:00"
+   "created": "2026-11-04T12:25+09:00",
+   "picked": "Parked: off the gold run, asked again later"
   },
   {
    "id": "ani04-abbot",
@@ -1483,7 +1506,8 @@
     "OK",
     "Needs work"
    ],
-   "created": "2026-11-04T12:25+09:00"
+   "created": "2026-11-04T12:25+09:00",
+   "picked": "Parked: off the gold run, asked again later"
   },
   {
    "id": "zoom-ab",
@@ -1517,7 +1541,8 @@
     "1.15x",
     "1.3x"
    ],
-   "created": "2026-11-04T12:38+09:00"
+   "created": "2026-11-04T12:38+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "ani04-abbot-2",
@@ -1538,7 +1563,8 @@
     "OK",
     "Needs work"
    ],
-   "created": "2026-11-04T14:32+09:00"
+   "created": "2026-11-04T14:32+09:00",
+   "picked": "Parked: off the gold run, asked again later"
   },
   {
    "id": "ice-shards-b-hit",
@@ -1568,7 +1594,8 @@
     "Stronger still",
     "Too much"
    ],
-   "created": "2026-11-04T14:52+09:00"
+   "created": "2026-11-04T14:52+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "hi3d-hero",
@@ -1615,7 +1642,8 @@
     "Good, go",
     "Different refs"
    ],
-   "created": "2026-11-04T17:23+09:00"
+   "created": "2026-11-04T17:23+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "cold-death-b5",
@@ -1640,7 +1668,8 @@
     "Install",
     "Needs work"
    ],
-   "created": "2026-11-04T18:48+09:00"
+   "created": "2026-11-04T18:48+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "terrain-depth-day1",
@@ -1689,7 +1718,8 @@
     "Right way, keep going",
     "Not better"
    ],
-   "created": "2026-11-04T19:32+09:00"
+   "created": "2026-11-04T19:32+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "refs-props-hi3d",
@@ -1710,7 +1740,8 @@
     "Good",
     "Different refs"
    ],
-   "created": "2026-11-04T21:54+09:00"
+   "created": "2026-11-04T21:54+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "cultist-h9",
@@ -1731,7 +1762,8 @@
     "OK",
     "Needs work"
    ],
-   "created": "2026-11-05T01:25+09:00"
+   "created": "2026-11-05T01:25+09:00",
+   "picked": "Parked: off the gold run, asked again later"
   },
   {
    "id": "abbot-a7",
@@ -1752,7 +1784,8 @@
     "OK",
     "Needs work"
    ],
-   "created": "2026-11-05T01:25+09:00"
+   "created": "2026-11-05T01:25+09:00",
+   "picked": "Parked: off the gold run, asked again later"
   },
   {
    "id": "brute-b10",
@@ -1773,7 +1806,8 @@
     "OK",
     "Needs work"
    ],
-   "created": "2026-11-05T01:25+09:00"
+   "created": "2026-11-05T01:25+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "antisync-ghoul6",
@@ -1795,7 +1829,8 @@
     "Too subtle, stronger",
     "Robotic, turn off"
    ],
-   "created": "2026-11-09T19:50+09:00"
+   "created": "2026-11-09T19:50+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "fire-death-b2",
@@ -1821,7 +1856,8 @@
     "Needs work",
     "Drop"
    ],
-   "created": "2026-11-09T20:02+09:00"
+   "created": "2026-11-09T20:02+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "frost-nova-r4",
@@ -1847,7 +1883,8 @@
     "Needs work",
     "Park"
    ],
-   "created": "2026-11-09T20:39+09:00"
+   "created": "2026-11-09T20:39+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "lightning-death-b2",
@@ -1873,7 +1910,8 @@
     "Needs work",
     "Drop"
    ],
-   "created": "2026-11-09T21:41+09:00"
+   "created": "2026-11-09T21:41+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "death-start-ab",
@@ -1898,7 +1936,8 @@
     "Keep B",
     "Needs work"
    ],
-   "created": "2026-11-09T21:53+09:00"
+   "created": "2026-11-09T21:53+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "ghoul-attack-retime",
@@ -1923,7 +1962,8 @@
     "Keep",
     "Looks rushed"
    ],
-   "created": "2026-11-09T23:12+09:00"
+   "created": "2026-11-09T23:12+09:00",
+   "picked": "Closed by the coordinator: shown in the next whole-run video"
   },
   {
    "id": "ani04-raider",
@@ -1945,8 +1985,9 @@
     "Swap walk",
     "Swap attack"
    ],
-   "created": "2026-11-09T23:14+09:00"
+   "created": "2026-11-09T23:14+09:00",
+   "picked": "Parked: raider paused by your 11-11 pick"
   }
  ],
- "updated": "2026-11-09T23:14+09:00"
+ "updated": "2026-11-11T17:51+09:00"
 }
