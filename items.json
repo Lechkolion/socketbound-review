@@ -2013,7 +2013,38 @@
     "Swap clip"
    ],
    "created": "2026-11-11T18:24+09:00"
+  },
+  {
+   "id": "ani04-ghoul-run",
+   "title": "Ghoul: a run for chasing you",
+   "ask": "Which run should ghouls use when they chase you?",
+   "area": "monsters",
+   "kind": "approve",
+   "body": [
+    "Ghouls chase faster than their walk, so today their feet slide. A run fixes that.",
+    "Untouched library clips on our ghoul, 16 directions, normal speed. The third video is today's walk for comparison."
+   ],
+   "media": [
+    {
+     "src": "media/ani04-ghoul-run_0.mp4",
+     "caption": "A: hunched zombie charge"
+    },
+    {
+     "src": "media/ani04-ghoul-run_1.mp4",
+     "caption": "B: heavier, lower lope"
+    },
+    {
+     "src": "media/ani04-ghoul-run_2.mp4",
+     "caption": "today's walk (reference)"
+    }
+   ],
+   "options": [
+    "A zombie charge",
+    "B heavy lope",
+    "Neither"
+   ],
+   "created": "2026-11-11T19:33+09:00"
   }
  ],
- "updated": "2026-11-11T18:24+09:00"
+ "updated": "2026-11-11T19:33+09:00"
 }
