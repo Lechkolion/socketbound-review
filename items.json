@@ -2044,7 +2044,35 @@
     "Neither"
    ],
    "created": "2026-11-11T19:33+09:00"
+  },
+  {
+   "id": "ani04-brute-death",
+   "title": "Brute: how it falls when it dies",
+   "ask": "Should brutes and the gate guard fall on their face when they die?",
+   "area": "monsters",
+   "kind": "approve",
+   "body": [
+    "Today a dying brute falls on its back, and its hump props its head off the ground (other monsters lie flat).",
+    "New: its knees give, it drops to its knees and falls flat on its face, head and chest on the ground. The big gate guard at the end of the run uses it too.",
+    "The video plays the same fight twice: today first, then new. The 99999 numbers are the test killing them fast.",
+    "After OK: fingers out of the floor and a slightly shorter fall, then it goes in the game."
+   ],
+   "media": [
+    {
+     "src": "media/ani04-brute-death_0.mp4",
+     "caption": "Same fight: today, then new (normal speed)"
+    },
+    {
+     "src": "media/ani04-brute-death_1.mp4",
+     "caption": "Side by side: today left, new right"
+    }
+   ],
+   "options": [
+    "New: falls on its face",
+    "Keep: falls on its back"
+   ],
+   "created": "2026-11-12T01:14+09:00"
   }
  ],
- "updated": "2026-11-11T19:33+09:00"
+ "updated": "2026-11-12T01:14+09:00"
 }
